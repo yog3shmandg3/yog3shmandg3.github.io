@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Antonio Franques
+title: Blog posts
 subtitle: This is where I explain about my blog
 ---
 
 <div class="posts-list">
-  hello
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
