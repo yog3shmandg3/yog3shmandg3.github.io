@@ -84,11 +84,23 @@ img {
   max-width: 100%;
 }
 
+.profile_picture {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
 .disqus-comments {
   margin-top: 30px;
 }
 
 @media only screen and (min-width: 768px) {
+  .profile_picture {
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;"
+}
+
   .disqus-comments {
     margin-top: 40px;
   }
@@ -338,7 +350,7 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 60px 0 20px;
   position: relative;
 }
 .intro-header.big-img {
@@ -418,7 +430,7 @@ footer .theme-by {
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    margin-top: 100px;
+    margin-top: 60px;
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
