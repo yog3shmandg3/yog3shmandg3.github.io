@@ -3,6 +3,7 @@ layout: page
 comments: false
 ---
 
+<div class="index_header_space"></div>
 <img class="profile_picture" src="/img/profile_picture.jpg">
 
 Hi, I'm **Antonio Franques**, PhD student in Computer Science at the University of Illinois at Urbana-Champaign (UIUC).<br clear="left" />
