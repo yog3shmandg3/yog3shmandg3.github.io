@@ -6,49 +6,12 @@ comments: false
 <div class="index_header_space"></div>
 <img class="profile_picture" src="/img/profile_picture.jpg">
 
-Hi, I'm **Antonio Franques**, PhD student in Computer Science at the University of Illinois at Urbana-Champaign (UIUC).<br clear="left" />
+Hi, I am **Antonio Franques**, PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc. You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+I am a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group, led by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). My research focuses on the application of extremely high frequency wireless NoC in massive multi-core architectures. The research spans a gamut of topics related to computer-architecture, like cache coherence protocols and on-chip networks, but also aims for an energy and area efficient use of the wireless communications devices involved.<br clear="left" />
 
-**Here is some bold text**
+I graduated from [Technical University of Valencia (UPV)](http://www.upv.es/index-en.html) in 2015 with a bachelor's degree in Telecommunications Engineering. My undergraduate thesis, titled "Numerical methods for nonlinear modeling", and awarded with a Distinction (highest grade with honors) by the [School of Telecommunications Engineering](https://www.etsit.upv.es/), was the product of almost two years of research in the area of Computational Mathematics under the supervision of Professors Juan Ramon Torregrosa and Alicia Cordero, which also led to 3 journal publications and 2 conference papers.
 
-# This is how it looks an H1
-some text
+I am currently living in Urbana, Illinois. In the past, I have lived in Trondheim (Norway), as well as in Valencia, Barcelona, and l'Espluga de Francoli (Spain), this last being the place where I spent most part of my childhood.
 
-## Here is a secondary heading
-some text
-
-### A third one heading
-some text
-
-Here's a useless table:
- 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
- 
-
-How about a picture of a crepe?
-
-![Crepe](http://lafenicegelato.com/wp-content/uploads/2014/09/crepes-with-chocolate.jpg)
-
-Here's a code chunk:
-
-~~~
-x <- 5 + 10
-print(x)
-~~~
-
-And here is some code with syntax highlighting
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-
+You can find a copy of my resume [here](/docs/resume-antonio.pdf). And you can email me at [afranques44@gmail.com](afranques44@gmail.com)
