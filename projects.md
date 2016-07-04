@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: This is a collection of some of my personal and class projects. Although some might be better than others, the main purpose they serve is for me to learn, practice or play with all those things that interest me or I'm feeling curious about at some point in time.
+subtitle: This is a collection of some of my personal and class projects. Although some might be better than others, the main purpose they serve is for me to learn, practice or play with all those things that interest me or I am feeling curious about at some point in time.
 ---
 
 ## Personal projects
@@ -9,6 +9,7 @@ subtitle: This is a collection of some of my personal and class projects. Althou
 
 ### 2016
 - **Quovis** - Android App for saving, organizing and retrieving your favorite locations.
+
 
 ## Class projects
 ---

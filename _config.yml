@@ -51,7 +51,7 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   github: true
   linkedin: true
   stackoverflow: true
