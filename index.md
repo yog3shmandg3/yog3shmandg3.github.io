@@ -12,7 +12,14 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 **Here is some bold text**
 
+# This is how it looks an H1
+some text
+
 ## Here is a secondary heading
+some text
+
+### A third one heading
+some text
 
 Here's a useless table:
  
@@ -24,7 +31,7 @@ Here's a useless table:
 | Two | Three | One |
  
 
-How about a yummy crepe?
+How about a picture of a crepe?
 
 ![Crepe](http://lafenicegelato.com/wp-content/uploads/2014/09/crepes-with-chocolate.jpg)
 
