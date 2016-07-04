@@ -14,4 +14,4 @@ I graduated from [Polytechnic University of Valencia (UPV)](http://www.upv.es/in
 
 I am currently living in [Urbana-Champaign](https://en.wikipedia.org/wiki/Champaign%E2%80%93Urbana_metropolitan_area), Illinois. In the past, I have lived in [Trondheim](https://en.wikipedia.org/wiki/Trondheim) (Norway), as well as in [Valencia](https://en.wikipedia.org/wiki/Valencia), [Barcelona](https://en.wikipedia.org/wiki/Barcelona), and l'[Espluga de Francoli](https://es.wikipedia.org/wiki/Espluga_de_Francol%C3%AD) (Spain), this last being the place where I spent most part of my childhood.
 
-You can find a copy of my resume [here](/docs/resume-antonio.pdf). And you can email me at [afranques44@gmail.com](afranques44@gmail.com)
+You can find a copy of my resume [here](/docs/resume-antonio.pdf). And you can email me at [afranques44@gmail.com](mailto:afranques44@gmail.com)
