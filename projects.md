@@ -1,14 +1,20 @@
 ---
 layout: page
 title: Projects
-subtitle: This is a collection of some of my personal and class projects. Although some might be better than others, the main purpose they serve is for me to learn, practice or play with all those things that interest me or I am feeling curious about at some point in time.
+subtitle: This is a collection of some of my personal and class projects. Although some might be better/bigger than others, the main purpose they serve is for me to learn, practice, test or play with all those things that interest me or I am feeling curious at some point in time. A more updated list of them can also be found on my <a href="https://github.com/afranques44">Github</a>.
 ---
 
 ## Personal projects
 ---
 
 ### 2016
-- **Quovis** - Android App for saving, organizing and retrieving your favorite locations.
+- **Quovis** - (to be filled) Android App for saving, organizing and retrieving your favorite locations.
+
+
+### 2010
+- [**Setting up PHP, MySQL, WordPress and Exchange on Windows Server 2003**]({{ site.github.owner_url }}/DocumentationWindowsServer2003/) - Documentation (in Spanish) showing all the necessary steps to:
+1. Set up a blog site with WordPress on our own Windows Server 2003. The documentation also shows how to install PHP over IIS and MySQL.
+2. Install Exchange Server 2003 in order for the users of our (made-up) company domain to be able to send/receive (and recover in case of accidental deletions) emails.
 
 
 ## Class projects

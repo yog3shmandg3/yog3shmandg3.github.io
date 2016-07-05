@@ -3,6 +3,11 @@ layout: page
 title: Publications
 subtitle: ""
 ---
+
+{% if page.subtitle == "" %}
+<div class="empty_subtitle"></div>
+{% endif %}
+
 _Author's version for most of the following papers can be found at my [ResearchGate profile](https://www.researchgate.net/profile/Antonio_Franques)._
 
 ## 2016

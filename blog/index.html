@@ -4,6 +4,10 @@ title: Blog posts
 subtitle: ""
 ---
 
+{% if page.subtitle == "" %}
+<div class="empty_subtitle"></div>
+{% endif %}
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">

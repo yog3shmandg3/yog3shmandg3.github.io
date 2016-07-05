@@ -355,6 +355,11 @@ footer .theme-by {
   margin: 80px 0 20px;
   position: relative;
 }
+
+.empty_subtitle {
+  margin-top: -20px;
+}
+
 .intro-header.big-img {
   background: no-repeat center center;
   -webkit-background-size: cover;
