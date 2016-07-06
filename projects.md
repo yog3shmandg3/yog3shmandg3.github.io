@@ -8,12 +8,9 @@ subtitle: This is a collection of some of my personal and class projects. Althou
 ---
 
 ### 2016
-- **Quovis** - (to be filled) Android App for saving, organizing and retrieving your favorite locations.
-
+- [**Quovis**](https://github.com/{{ site.author.github }}/quovis) - Android application for quickly saving, organizing and retrieving your favorite locations.
 
 ### 2010
-- [**Mercat Catala**](https://github.com/{{ site.author.github }}/mercat-catala) - Set of scripts for parsing, saving and uploading to a personally-owned database all the cultural events listed in the [Catalan Government's website](http://agenda.cultura.gencat.cat/). Also, once we have all that data, use it in a social network style website (intended to be named **mercatcatala.cat**) for editing, commenting, liking/disliking, etc. the events among the website users.
-
 - [**Setting up PHP, MySQL, WordPress and Exchange on Windows Server 2003**](https://github.com/{{ site.author.github }}/documentation-windows-server-2003/blob/master/php_mysql_wordpress_exchange_on_windows_server_2003.pdf) - Documentation (in Spanish) showing all the necessary steps to:
 1. Set up a blog site with WordPress on our own Windows Server 2003. The documentation also shows how to install PHP over IIS and MySQL.
 2. Install Exchange Server 2003 in order for the users of our (made-up) company domain to be able to send/receive (and recover in case of accidental deletions) emails.
@@ -30,4 +27,10 @@ subtitle: This is a collection of some of my personal and class projects. Althou
 - [**WPS: A user configuration facility that became a threat**](https://github.com/{{ site.author.github }}/wireless-network-security/blob/master/essay/ttm4137_essay.pdf) - Essay submitted to Wireless Network Security (TTM4137) during my semester at the Norwegian University of Science and Technology. The essay firstly provides the necessary background knowledge about the Wi-Fi Protected Setup (WPS), then it focuses on why it became a security threat and how does a brute-force attack take advantage of it. Finally, it briefly describes what safety measures can be carried out for preventing this attack.
 
 ### 2013
-- [**Multi threaded instant messaging application in Java**](https://github.com/{{ site.author.github }}/telematics-services-design/tree/master/chat) - Capable of sending and receiving messages between two machines across the network, as well as file transfers.
+- [**Multi threaded instant messaging application in Java**](https://github.com/{{ site.author.github }}/telematics-services-design/tree/master/chat) - Project submitted to Telematics Services Design at UPV. The application is capable of sending and receiving messages between two machines across the network, as well as performing file transfers.
+
+### 2010
+- [**Mercat Catala**](https://github.com/{{ site.author.github }}/mercat-catala) - Set of scripts for parsing, saving (web scraping) and uploading to a personally-owned database all the cultural events listed in the [Catalan Government's website](http://agenda.cultura.gencat.cat/). Also, once we have all that data, use it in a social network style website (intended to be named **mercatcatala.cat**) for editing, commenting, liking/disliking, etc. the events among the website users. The project was submitted as an ending to a set of technical courses that occur in Spain between High School and College.
+
+### 2008
+- [**Slot Machine**](https://github.com/{{ site.author.github }}/slot-machine) - Basic game in Javascript emulating a slot machine. Used as a way to learn the very basics of Javascript during a set of technical courses that occur in Spain between High School and College.
