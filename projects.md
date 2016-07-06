@@ -19,9 +19,6 @@ subtitle: This is a collection of some of my personal and class projects. Althou
 ## Class projects
 ---
 
-### 2015
-
-
 ### 2014
 - [**Status of the Voyager project**](https://github.com/{{ site.author.github }}/space-technology-i/blob/master/essay/space_technology_essay_antonio.pdf) - Essay submitted to Space Technology I (TTT4234) during my semester at the Norwegian University of Science and Technology (Fall 2014). The essay firstly provides the necessary background knowledge about the Voyager project, as it's considered that's the proper way to understand what are the physical limitations or constraints that are defining and will define the possibilities of their missions. And next, it summarizes what are the current and future studies carried out by both probes that constitute the Voyager project; the Voyager 1 and Voyager 2.
 
