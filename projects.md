@@ -19,6 +19,9 @@ subtitle: This is a collection of some of my personal and class projects. Althou
 ## Class projects
 ---
 
+### 2015
+
+
 ### 2014
 - [**Status of the Voyager project**](https://github.com/{{ site.author.github }}/space-technology-i/blob/master/essay/space_technology_essay_antonio.pdf) - Essay submitted to Space Technology I (TTT4234) during my semester at the Norwegian University of Science and Technology (Fall 2014). The essay firstly provides the necessary background knowledge about the Voyager project, as it's considered that's the proper way to understand what are the physical limitations or constraints that are defining and will define the possibilities of their missions. And next, it summarizes what are the current and future studies carried out by both probes that constitute the Voyager project; the Voyager 1 and Voyager 2.
 
@@ -30,6 +33,8 @@ subtitle: This is a collection of some of my personal and class projects. Althou
 - [**Multi threaded instant messaging application in Java**](https://github.com/{{ site.author.github }}/telematics-services-design/tree/master/chat) - Project submitted to Telematics Services Design at UPV (Fall 2013). The application is capable of sending and receiving messages between two machines across the network, as well as performing file transfers.
 
 - [**Programmable Digital Systems**](https://github.com/{{ site.author.github }}/programmable-digital-systems) - Set of laboratory projects submitted to Programmable Digital Systems at UPV (Spring 2013), written in Verilog an implemented in an Altera DE2 Board (which includes an Altera 90nm Cyclone II FPGA). The design software used was Altera Quartus II.
+
+- [**Mastermind in 68000 Assembly language with EASy68K**](https://github.com/{{ site.author.github }}/microprocessors-based-systems/tree/master/mastermind) - Together with my labmate, we implemented a version of the classic [Mastermind game](https://en.wikipedia.org/wiki/Mastermind_(board_game)) in [68000 Assembly](https://en.wikibooks.org/wiki/68000_Assembly) (the assembly language for the Motorola 68K-series microprocessors), and assembled/simulated it with [EASy68K](http://www.easy68k.com/).
 
 ### 2010
 - [**Mercat Catala**](https://github.com/{{ site.author.github }}/mercat-catala) - Set of scripts for parsing, saving (web scraping) and uploading to a personally-owned database all the cultural events listed in the [Catalan Government's website](http://agenda.cultura.gencat.cat/). Also, once we have all that data, use it in a social network style website (intended to be named **mercatcatala.cat**) for editing, commenting, liking/disliking, etc. the events among the website users. The project was submitted as an ending to a set of technical courses that occur in Spain between High School and College.
