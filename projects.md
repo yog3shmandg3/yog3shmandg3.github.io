@@ -1,8 +1,14 @@
 ---
 layout: page
 title: Projects
-subtitle: This is a collection of some of my personal and class projects. Although some might be better/bigger than others, the main purpose they serve is for me to learn, practice, test or play with all those things that interest me or I am feeling curious at some point in time. A more updated list of them can also be found on my <a href="https://github.com/afranques44">Github</a>.
+subtitle: This is a collection of some of my personal and class projects. Although some might be better/bigger than others, the main purpose they serve is for me to learn, practice, test or play with all those things that interest me or I am feeling curious at some point in time. A more updated list of them can also be found on my
+link_name: Github
+link_url: https://github.com/afranques44
 ---
+
+{% if page.subtitle == "" %}
+<div class="empty_subtitle"></div>
+{% endif %}
 
 ## Personal projects
 ---
