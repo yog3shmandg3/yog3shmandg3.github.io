@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Publications
-subtitle: ""
+subtitle: "Author's version for most of the following papers can be found at my"
+link_name: ResearchGate profile
+link_url: https://www.researchgate.net/profile/Antonio_Franques
 ---
 
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
-
-_Author's version for most of the following papers can be found at my [ResearchGate profile](https://www.researchgate.net/profile/Antonio_Franques)._
 
 ## 2016
 - Alicia Cordero, **Antonio Franques** and J.R. Torregrosa, _Chaos and Convergence of a family generalizing Homeier’s method with damping parameters_, Nonlinear Dynamics, doi: 10.1007/s11071-016-2807-0.

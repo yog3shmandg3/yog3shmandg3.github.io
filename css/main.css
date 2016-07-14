@@ -98,7 +98,7 @@ img {
   .profile_picture {
     float: left;
     padding-top: 3px;
-    padding-right: 20px;
+    padding-right: 11px;
     padding-bottom: 5px;"
 }
 
@@ -357,7 +357,7 @@ footer .theme-by {
 }
 
 .empty_subtitle {
-  margin-top: -10px;
+  margin-top: -30px;
 }
 
 .intro-header.big-img {
@@ -395,7 +395,7 @@ footer .theme-by {
 
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .post-heading {
@@ -459,7 +459,7 @@ footer .theme-by {
     padding: 150px 0;
   }  
   .intro-header .page-heading h1 {
-    font-size: 40px;
+    font-size: 30px;
   }
   .intro-header .post-heading h1 {
     font-size: 35px;
