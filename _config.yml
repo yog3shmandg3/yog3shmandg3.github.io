@@ -39,12 +39,12 @@ navbar-links:
 author:
   name: Antonio Franques
   email: "afranques44@gmail.com"
-  facebook: afranques44  # eg. daattali
-  github: afranques44    # eg. daattali
+  facebook: afranques  # eg. daattali
+  github: afranques   # eg. daattali
   instagram: afranques44
   twitter: afranques44   # eg. daattali
   linkedin: in/afranques  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: 5034588/afranques44  # eg. "3943160/daattali"
+  stackoverflow: 5034588/afranques  # eg. "3943160/daattali"
 
 # Select which links to show in the footer
 footer-links-active:
@@ -64,7 +64,7 @@ url-pretty: "afranques.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "afranques44"
+disqus: "afranques"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-80188221-1"
