@@ -14,7 +14,7 @@ link_url: https://github.com/afranques
 ---
 
 ### 2016
-- [**Quovis**](https://github.com/{{ site.author.github }}/quovis) - Android application for quickly saving, organizing and retrieving your favorite locations.
+- [**Quovis**](https://github.com/{{ site.author.github }}/quovis) - Android App for saving, organizing, and retrieving users’ favorite locations.
 
 ### 2010
 - [**Setting up PHP, MySQL, WordPress and Exchange on Windows Server 2003**](https://github.com/{{ site.author.github }}/documentation-windows-server-2003/blob/master/php_mysql_wordpress_exchange_on_windows_server_2003.pdf) - Documentation (in Spanish) showing all the necessary steps to:
