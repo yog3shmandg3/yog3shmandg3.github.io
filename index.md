@@ -6,7 +6,7 @@ comments: false
 <div class="index_header_space"></div>
 <img class="profile_picture" src="/img/profile_picture.jpg">
 
-Hi, I am Antonio Franques, PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
+Hi, I am Antonio Franques, PhD candidate in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
 
 I am a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group, led by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). My research focuses on the application of extremely high frequency wireless on-chip communications in massive multi-core architectures. The research spans a gamut of topics related to computer architecture, like cache coherence protocols and fine-grain synchronization, but also aims for an energy and area efficient use of the wireless communications devices involved.<br clear="left" />
 
