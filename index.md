@@ -8,7 +8,7 @@ comments: false
 
 Hi, I am Antonio Franques, PhD candidate in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
 
-I am a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group, led by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). My research focuses on the application of extremely high frequency wireless on-chip communications in massive multi-core architectures. The research spans a gamut of topics related to computer architecture, like cache coherence protocols and fine-grain synchronization, but also aims for an energy and area efficient use of the wireless communications devices involved.<br clear="left" />
+I am a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group, led by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). My research focuses on the application of extremely high frequency wireless on-chip communications in massive multi-core architectures. The research spans a gamut of topics related to computer architecture, but it also aims for an energy and area efficient use of the wireless communications devices involved.<br clear="left" />
 
 In 2015 I graduated from [Technical University of Valencia (UPV)](http://www.upv.es/index-en.html) with a Bachelor's Degree in Telecommunications Engineering. My undergraduate thesis, titled "Numerical Methods for Nonlinear Modeling", was the product of almost two years of research in the area of Computational Mathematics under the supervision of Professors Juan Ramon Torregrosa and Alicia Cordero, which also led to 3 journal publications and 2 conference papers.
 
