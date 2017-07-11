@@ -11,7 +11,7 @@ link_url: https://github.com/afranques
 {% endif %}
 
 ### 2017
-- [**Multi2Sim to McPAT converter**](https://github.com/{{ site.author.github }}/m2s-to-mcpat) - Python script to convert one or multiple statistics output files obtained after simulating a certain application with Multi2Sim, and convert them into McPAT XML input configuration format.
+- [**Multi2Sim to McPAT converter**](https://github.com/{{ site.author.github }}/m2s-to-mcpat) - Python script that takes one or multiple statistics output files, obtained after simulating a certain application with Multi2Sim, and convert them into McPAT XML input configuration format.
 
 ### 2016
 - [**Quovis**](https://github.com/{{ site.author.github }}/quovis) - Android App for saving, organizing, and retrieving users’ favorite locations.
