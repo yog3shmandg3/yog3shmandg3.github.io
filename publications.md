@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+subtitle: 
 ---
 
 {% if page.subtitle == "" %}
