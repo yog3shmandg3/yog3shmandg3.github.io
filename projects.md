@@ -10,20 +10,11 @@ link_url: https://github.com/afranques
 <div class="empty_subtitle"></div>
 {% endif %}
 
-## Personal projects
----
+### 2017
+- [**Multi2Sim to McPAT converter**](https://github.com/{{ site.author.github }}/m2s-to-mcpat) - Python script to convert one or multiple statistics output files obtained after simulating a certain application with Multi2Sim, and convert them into McPAT XML input configuration format.
 
 ### 2016
 - [**Quovis**](https://github.com/{{ site.author.github }}/quovis) - Android App for saving, organizing, and retrieving users’ favorite locations.
-
-### 2010
-- [**Setting up PHP, MySQL, WordPress and Exchange on Windows Server 2003**](https://github.com/{{ site.author.github }}/documentation-windows-server-2003/blob/master/php_mysql_wordpress_exchange_on_windows_server_2003.pdf) - Documentation (in Spanish) showing all the necessary steps to:
-1. Set up a blog site with WordPress on our own Windows Server 2003. The documentation also shows how to install PHP over IIS and MySQL.
-2. Install Exchange Server 2003 in order for the users of our (made-up) company domain to be able to send/receive (and recover in case of accidental deletions) emails.
-
-
-## Class projects
----
 
 ### 2015
 - [**CMat: describing the language and its Python-implemented interpreter**](https://github.com/{{ site.author.github }}/scripting-languages/tree/master/term_project) - Term project submitted to Design and Implementation of Scripting Languages (CS 598-DHP) at UIUC (Fall 2015). It implements an interpreter in Python for CMat; a blended subset of Matlab, C and Cool.
@@ -47,5 +38,9 @@ link_url: https://github.com/afranques
 ### 2010
 - [**Mercat Catala**](https://github.com/{{ site.author.github }}/mercat-catala) - Set of scripts for parsing, saving (web scraping) and uploading to a personally-owned database all the cultural events listed in the [Catalan Government's website](http://agenda.cultura.gencat.cat/). Also, once we have all that data, use it in a social network style website (intended to be named **mercatcatala.cat**) for editing, commenting, liking/disliking, etc. the events among the website users. The project was submitted as an ending to a set of technical courses that occur in Spain between High School and College.
 
-### 2008
-- [**Slot Machine**](https://github.com/{{ site.author.github }}/slot-machine) - Basic game in Javascript emulating a slot machine. Used as a way to learn the very basics of Javascript during a set of technical courses that occur in Spain between High School and College.
+- [**Setting up PHP, MySQL, WordPress and Exchange on Windows Server 2003**](https://github.com/{{ site.author.github }}/documentation-windows-server-2003/blob/master/php_mysql_wordpress_exchange_on_windows_server_2003.pdf) - Documentation (in Spanish) showing all the necessary steps to:
+1. Set up a blog site with WordPress on our own Windows Server 2003. The documentation also shows how to install PHP over IIS and MySQL.
+2. Install Exchange Server 2003 in order for the users of our (made-up) company domain to be able to send/receive (and recover in case of accidental deletions) emails.
+
+<!--### 2008
+- [**Slot Machine**](https://github.com/{{ site.author.github }}/slot-machine) - Basic game in Javascript emulating a slot machine. Used as a way to learn the very basics of Javascript during a set of technical courses that occur in Spain between High School and College.-->
