@@ -9,7 +9,7 @@ subtitle:
 {% endif %}
 
 ### 2018
-- **Millimeter-Wave Propagation within a Computer Chip Package**. X. Timoneda, S. Abadal, A. Cabellos-Aparicio, D. Manessis, J. Zhou, A. Franques, J. Torrellas, E. Alarcón,  in Proceedings of the ISCAS ’18, Florence, Italy, May 2018. [(PDF)](/docs/ISCAS_2018_CompPackage.pdf)
+- **Millimeter-Wave Propagation within a Computer Chip Package**. X. Timoneda, S. Abadal, A. Cabellos-Aparicio, D. Manessis, J. Zhou, **A. Franques**, J. Torrellas, E. Alarcón, in Proceedings of the ISCAS ’18, Florence, Italy, May 2018. [(PDF)](/docs/ISCAS_2018_CompPackage.pdf)
 
 ### 2017
 - **Adapting Programs for Wireless On-Chip Communication**. V. Fernando, **A. Franques**, S. Abadal, S. Misailovic, J. Torrellas, sbumitted to ISCA '18.
