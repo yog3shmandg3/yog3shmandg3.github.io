@@ -8,7 +8,6 @@ subtitle: ""
 {% if page.subtitle == "" %}
 <div class="empty_subtitle"></div>
 {% endif %}
-
 <br>
 <div class="list-filters">
   <a href="/blog/" class="list-filter">All posts</a>
