@@ -29,7 +29,7 @@ layout: base
           Tags:
           {% if site.link-tags %}
             	{% for tag in page.tags %}
-             	 <a href="{{ http://afranques.com/blog }}/tags#{{- tag -}}">{{- tag -}}</a>
+             	 <a href="http://afranques.com/blog/tags#{{- tag -}}">{{- tag -}}</a>
             	{% endfor %}
           {% else %}
             	{{ page.tags | join: ", " }}
