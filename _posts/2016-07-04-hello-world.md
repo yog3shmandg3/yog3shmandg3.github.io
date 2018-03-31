@@ -1,18 +1,24 @@
 ---
 layout: post
 title: Hello world
+tags: [test, travel]
+permalink: /blog/2016-07-04-hello-world/
+date: 2018-02-26 11:20:00 -0500
 ---
 
-**This is my first blog entry, whose simple purpose is to check that everything works.**
+Last week, my brand new DataCamp course [Shiny Case Studies](https://www.datacamp.com/courses/building-web-applications-in-r-with-shiny-case-studies) was finally released after being in the works for a full year!
 
-Now, here's a few paragraphs of the traditional _Lorem Ipsum_:
+<div style="text-align:center;">
+  <a class="btn btn-lg btn-success" href="https://www.datacamp.com/courses/building-web-applications-in-r-with-shiny-case-studies">Check out the course</a>
+</div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac neque malesuada magna tincidunt sodales id quis massa. Nam nunc turpis, volutpat ac nunc quis, bibendum pellentesque lacus. Nam neque lectus, gravida luctus porttitor quis, posuere in odio. Fusce nulla felis, molestie nec porta ut, convallis nec dui. Nulla consectetur metus a orci porttitor porttitor nec in lorem. Cras placerat vel felis eget facilisis. Phasellus quis elit justo.
+This is an online course consisting of a series of short videos, mulitple choice exercises, and interactive coding exercises. The course is designed to improve your knowledge and skill with Shiny by developing fun and realistic Shiny apps for different common use cases, such as exploring a dataset, generating a customized plot, and even creating a word cloud!
 
-Ut mattis mauris at porttitor convallis. Praesent eu fermentum lacus. Quisque lobortis eleifend sagittis. Fusce sodales varius iaculis. Donec aliquam quam eu diam tincidunt placerat. Aenean tincidunt urna justo, blandit varius odio eleifend et. Nullam sit amet urna mollis, hendrerit nisl nec, congue sapien. Mauris ullamcorper bibendum sem, vel facilisis elit luctus ut. Duis a neque rutrum, ultrices justo ac, consectetur dui. Curabitur porta sit amet magna eget suscipit. Nam quis massa varius purus cursus hendrerit. Aenean gravida lacus non ipsum scelerisque gravida. In iaculis risus eget nulla tempor accumsan eu vulputate nisl. Vestibulum nec eros nulla. Maecenas lectus nibh, varius vitae arcu eu, pharetra fermentum diam. Morbi dignissim diam vitae venenatis tincidunt.
+If you've been looking to get some pratice with Shiny and learn a few new tricks, this course might be great for you. As I always say with anything I produce, any and all feedback is 100% welcomed.
 
-Mauris quis mattis elit, quis bibendum augue. Aliquam elementum metus erat. Cras tincidunt erat efficitur sapien consectetur congue sed ut elit. In luctus ipsum sed risus pharetra porta. Maecenas risus augue, semper facilisis leo non, varius maximus felis. Nunc tristique sed nibh ut maximus. Nulla id fermentum libero, ut elementum eros. Nam vitae porttitor nisi. Fusce ultricies eu ipsum vitae viverra. Sed hendrerit justo urna, ac sodales mi cursus eget. Vivamus porttitor vulputate magna, vulputate tempor dolor iaculis eu. Nam feugiat velit sed accumsan bibendum. Suspendisse nec sem erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sagittis et lorem id consequat. Nullam ornare nisi id augue iaculis porta.
-
-Aliquam libero felis, bibendum at nunc vitae, dignissim facilisis mi. Fusce ac sapien egestas, venenatis purus vitae, pulvinar mi. Suspendisse vestibulum tincidunt mi, non hendrerit elit sagittis et. Mauris at tellus purus. Duis eu lorem vitae lorem finibus lobortis. Aenean nec convallis sapien. Curabitur ullamcorper urna quis dolor mattis, eget lacinia lacus mattis. Nulla tincidunt vitae tortor in viverra. Cras vitae dictum dui.
-
-Duis non mi magna. Aliquam luctus, metus eget aliquam auctor, urna augue scelerisque metus, quis accumsan eros augue in dolor. Morbi eleifend sapien non elit feugiat pulvinar. Maecenas ac aliquet augue, vel posuere odio. Donec venenatis faucibus molestie. Sed ultrices facilisis nibh ut convallis. Etiam venenatis metus ante, in ultricies enim gravida sed. Quisque sapien nisl, condimentum a libero eget, egestas consequat lacus. Sed ut tellus porta, aliquet nunc nec, fringilla tortor. Integer tristique, sapien vulputate facilisis placerat, urna diam ultricies risus, vel tempus nisi felis id lacus. Fusce venenatis elit sit amet mauris convallis, quis interdum velit mattis. Nulla ullamcorper augue at turpis ultrices, non cursus mi vestibulum. Phasellus varius vitae mauris tristique venenatis. Duis velit lorem, aliquet vel erat nec, convallis commodo magna. Morbi in accumsan nunc, ut porttitor tellus.
+<div style="text-align:center;">
+  <a href="https://deanattali.com/img/blog/datacamp-shiny-case-studies-logo.png">
+    <img src="https://deanattali.com/img/blog/datacamp-shiny-case-studies-logo.png" alt="course logo" style="width: 180px;">
+  </a>
+</div>
+<br/>
