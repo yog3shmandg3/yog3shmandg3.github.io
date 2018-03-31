@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog posts
-subtitle: ""
 ---
 
 {% if page.subtitle == "" %}
