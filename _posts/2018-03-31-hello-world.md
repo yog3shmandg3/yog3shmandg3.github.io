@@ -3,7 +3,7 @@ layout: post
 title: Hello world
 tags: [test, travel]
 permalink: /blog/2016-07-04-hello-world/
-date: 2018-03*31 11:20:00 -0500
+date: 2018-03-31 11:20:00 -0500
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Vivamus ipsum mauris](http://afranques.com), sollicitudin ut porta quis, fringilla non magna. Ut semper dolor sagittis sapien sodales, non aliquam sapien pharetra. Aliquam erat volutpat. Cras et eros ut risus lacinia tincidunt. In erat justo, varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa.
