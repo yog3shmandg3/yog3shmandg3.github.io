@@ -27,3 +27,4 @@ Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lore
     <img src="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170826_174842.jpg" alt="course logo" style="width: 50%">
   </a>
 </div>
+<br>
