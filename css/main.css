@@ -545,6 +545,14 @@ footer .theme-by {
     font-family:'arial';
 }
 
+.tag-entry a {
+  font-size:17px;
+}
+
+.entry-date {
+  font-style: italic;
+}
+
 /* --- Pager --- */
 
 .pager li a {
