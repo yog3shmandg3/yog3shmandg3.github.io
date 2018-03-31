@@ -1,4 +1,4 @@
-.header-section.has-img .no-img {
+/*.header-section.has-img .no-img {
   margin-top: 0;
   background: #FCFCFC;
   margin: 0 0 40px;
@@ -9,7 +9,7 @@
   .header-section.has-img .big-img {
     margin-bottom: 0;
   }
-}
+}*/
 
 .list-filters {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -42,7 +42,7 @@
   }
 }
 
-.post-preview {
+/*.post-preview {
   padding: 15px 10px;
   display: block;
 }
@@ -101,4 +101,4 @@
 
 .post-preview .post-entry {
   display: none;
-}
+}*/
