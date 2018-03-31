@@ -1,6 +1,8 @@
 ---
 layout: page
+css: "/css/index.css"
 title: Blog posts
+subtitle: ""
 ---
 
 {% if page.subtitle == "" %}
@@ -8,10 +10,10 @@ title: Blog posts
 {% endif %}
 
 <div class="list-filters">
-  <a href="./" class="list-filter">All posts</a>
-  <a href="./travel" class="list-filter filter-selected">Travel</a>
-  <a href="./tutorials" class="list-filter">Tutorials</a>
-  <a href="./tags" class="list-filter">Index</a>
+  <a href="/blog/" class="list-filter">All posts</a>
+  <a href="/blog/travel" class="list-filter filter-selected">Travel</a>
+  <a href="/blog/tutorials" class="list-filter">Tutorials</a>
+  <a href="/blog/tags" class="list-filter">Index</a>
 </div>
 
 <div class="posts-list">
