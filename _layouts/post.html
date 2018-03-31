@@ -4,19 +4,6 @@ layout: base
 
 {% include header.html type="post" %}
 
-{% if page.tags %}
-	<div class="blog-tags">
-          Tags:
-          {% if site.link-tags %}
-            	{% for tag in page.tags %}
-             	 <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
-            	{% endfor %}
-          {% else %}
-            	{{ page.tags | join: ", " }}
-          {% endif %}
-        </div>
-{% endif %}
-
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -36,6 +23,18 @@ layout: base
         </li>
         {% endif %}
       </ul>
+    {% if page.tags %}
+	<div class="blog-tags">
+          Tags:
+          {% if site.link-tags %}
+            	{% for tag in page.tags %}
+             	 <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
+            	{% endfor %}
+          {% else %}
+            	{{ page.tags | join: ", " }}
+          {% endif %}
+        </div>
+{% endif %}
       
 	    {% if page.comments %}
         <div class="disqus-comments">
