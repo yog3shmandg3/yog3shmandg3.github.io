@@ -27,13 +27,9 @@ layout: base
 	    {% if page.tags %}
 	<div class="blog-tags">
           Tags:
-          {% if site.link-tags %}
-            	{% for tag in page.tags %}
-             	 <a href="http://afranques.com/blog/tags#{{- tag -}}">{{- tag -}}</a>
-            	{% endfor %}
-          {% else %}
-            	{{ page.tags | join: ", " }}
-          {% endif %}
+		{% for tag in page.tags %}
+		 <a href="http://afranques.com/blog/tags#{{- tag -}}">{{- tag -}}</a>
+		{% endfor %}
         </div>
 {% endif %}
       
