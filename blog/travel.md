@@ -12,7 +12,6 @@ subtitle: ""
 <div class="list-filters">
   <a href="/blog/" class="list-filter">All posts</a>
   <a href="/blog/travel" class="list-filter filter-selected">Travel</a>
-  <a href="/blog/professional" class="list-filter">Professional</a>
   <a href="/blog/tags" class="list-filter">Index</a>
 </div>
 
