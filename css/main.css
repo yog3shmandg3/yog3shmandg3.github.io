@@ -540,6 +540,11 @@ footer .theme-by {
   background-color: #EEE;
 }
 
+#full-tags-list .tag-entry {
+    margin: 0 0 15px 25px;
+    font-family:'arial';
+}
+
 /* --- Pager --- */
 
 .pager li a {
