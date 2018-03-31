@@ -14,11 +14,7 @@ Last week, my brand new DataCamp course [Shiny Case Studies](https://www.datacam
 
 This is an online course consisting of a series of short videos, mulitple choice exercises, and interactive coding exercises. The course is designed to improve your knowledge and skill with Shiny by developing fun and realistic Shiny apps for different common use cases, such as exploring a dataset, generating a customized plot, and even creating a word cloud!
 
-<div style="text-align:center;">
-  <a href="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726.jpg">
-    <img src="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726.jpg" alt="course logo" style="width: 180px;">
-  </a>
-</div>
+![](../img/IMG_20170825_173726.jpg?raw=true)
 
 If you've been looking to get some pratice with Shiny and learn a few new tricks, this course might be great for you. As I always say with anything I produce, any and all feedback is 100% welcomed.
 
