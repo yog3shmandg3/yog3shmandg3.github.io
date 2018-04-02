@@ -15,6 +15,7 @@ Lorem ipsum **dolor sit amet**, consectetur adipiscing elit. [Vivamus ipsum maur
 - [Paragraph2](#paragraph2)
   - [Paragraph2.1](#paragraph2-1)
 - [Paragraph3](#paragraph3)
+
 ***
 
 ## Paragraph 1 {#paragraph1}
@@ -83,5 +84,15 @@ Cras vel velit et neque tempus elementum. Sed ultricies tortor vel purus molesti
 </div>
 
 > Caption of second picture (*it looks bad, don't use quote style for captions. Modify code to write captions in italic, centered and smaller size, so that it looks better*)
+
+Does it work with google photos? Let's try...
+
+<div style="text-align:center;">
+  <a href="https://photos.app.goo.gl/SZTXaoakyzMSU6182">
+    <img src="https://photos.app.goo.gl/SZTXaoakyzMSU6182g" alt="course logo" style="">
+  </a>
+</div>
+
+[![google pgotos](https://photos.app.goo.gl/SZTXaoakyzMSU6182)](https://photos.app.goo.gl/SZTXaoakyzMSU6182)
 
 End of the post.
