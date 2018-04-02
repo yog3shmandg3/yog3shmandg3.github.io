@@ -16,8 +16,6 @@ Lorem ipsum **dolor sit amet**, consectetur adipiscing elit. [Vivamus ipsum maur
   - [Paragraph2.1](#paragraph2-1)
 - [Paragraph3](#paragraph3)
 
-***
-
 ## Paragraph 1 {#paragraph1}
 ***
 Cras et eros ut risus lacinia tincidunt. In erat justo, varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa.
@@ -88,11 +86,11 @@ Cras vel velit et neque tempus elementum. Sed ultricies tortor vel purus molesti
 Does it work with google photos? Let's try...
 
 <div style="text-align:center;">
-  <a href="https://photos.app.goo.gl/SZTXaoakyzMSU6182">
-    <img src="https://photos.app.goo.gl/SZTXaoakyzMSU6182g" alt="course logo" style="">
+  <a href="http://drive.google.com/uc?export=view&id=1U5i1L7_txEsxiBORCnuefkKC8It__1R1">
+    <img src="http://drive.google.com/uc?export=view&id=1U5i1L7_txEsxiBORCnuefkKC8It__1R1" alt="course logo" style="">
   </a>
 </div>
 
-[![google pgotos](https://photos.app.goo.gl/SZTXaoakyzMSU6182)](https://photos.app.goo.gl/SZTXaoakyzMSU6182)
+[![google pgotos](http://drive.google.com/uc?export=view&id=1U5i1L7_txEsxiBORCnuefkKC8It__1R1)](https://photos.app.goo.gl/SZTXaoakyzMSU6182)
 
 End of the post.
