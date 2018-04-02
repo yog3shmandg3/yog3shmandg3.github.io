@@ -73,7 +73,22 @@ Donec sodales tincidunt velit, sodales venenatis augue sodales ut.
 
 ## Paragraph 3 {#paragraph3}
 
-Cras vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus. Fusce ex dui, pulvinar at quam vel, tristique tincidunt ex. In ac molestie ante. Morbi a sem at est aliquet sodales.
+Cras vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus. 
+
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+
+Fusce ex dui, pulvinar at quam vel, tristique tincidunt ex. In ac molestie ante. Morbi a sem at est aliquet sodales.
 
 <div style="text-align:center;">
   <a href="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170826_174842.jpg">
