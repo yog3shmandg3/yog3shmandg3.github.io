@@ -15,6 +15,7 @@ Lorem ipsum **dolor sit amet**, consectetur adipiscing elit. [Vivamus ipsum maur
 - [Paragraph2](#paragraph2)
   - [Paragraph2.1](#paragraph2-1)
 - [Paragraph3](#paragraph3)
+***
 
 ## Paragraph 1 {#paragraph1}
 ***
@@ -27,7 +28,7 @@ Cras et eros ut risus lacinia tincidunt. In erat justo, varius vitae dignissim m
 Vestibulum viverra ipsum vitae magna rutrum rhoncus. Donec pulvinar pellentesque dui non fermentum. Vivamus gravida, erat non rutrum luctus, nisi sem pharetra est, eget pharetra ligula enim at lacus.
 
 ## Paragraph 2 {#paragraph2}
-
+***
 Sed a lacus condimentum, faucibus tellus gravida, elementum odio. Donec ligula mi, imperdiet non ligula vitae, vestibulum tincidunt quam. Fusce eros lorem, molestie quis dolor sed, feugiat porta erat. 
 > Quote example
 
@@ -41,20 +42,7 @@ Morbi faucibus est ipsum, vitae condimentum massa facilisis id. Suspendisse tinc
 
 > Testing quotes as caption of the picture
 
-Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lorem mi quis libero.
-
-1. Donec vitae (line break)
-2. Elit (line break)  
-
- Pellentesque placerat pretium quam nec vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus. (line break)  
- Fusce ex dui, pulvinar _at quam_ vel (line break)  
- tristique tincidunt ex. In ac molestie ante. Morbi a sem at est aliquet sodales. (line break)
- 
-3. Feugiat sapien condimentum (line break)  
- Cras et eros ut risus lacinia tincidunt. In erat justo (line break)  
- Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa. (line break)
-
-Posuere quis a ex.
+Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lorem mi quis libero. Posuere quis a ex.
 
 *   This is the first list item.
 *   Here's the second list item. Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa
@@ -77,7 +65,7 @@ Some more intermediate text
 3.  Update the title to match the name of your website.
 
 ### Pragraph 2.1 {#paragraph2-1}
-
+***
 Donec ac fermentum felis. Pellentesque placerat pretium quam nec interdum. 
 
 > Another quote example
