@@ -17,7 +17,7 @@ Lorem ipsum **dolor sit amet**, consectetur adipiscing elit. [Vivamus ipsum maur
 - [Paragraph3](#paragraph3)
 
 ## Paragraph 1 {#paragraph1}
-
+***
 Cras et eros ut risus lacinia tincidunt. In erat justo, varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa.
 
 <div style="text-align:center;">
