@@ -24,7 +24,7 @@ Cras et eros ut risus lacinia tincidunt. In erat justo, varius vitae dignissim m
   <a class="btn btn-lg btn-success" href="http://afranques.com">Just a cool button</a>
 </div>
 
-Vestibulum viverra ipsum vitae magna rutrum rhoncus. Donec pulvinar pellentesque dui non fermentum. Vivamus gravida, erat non rutrum luctus, nisi sem pharetra est, eget pharetra ligula enim at lacus.
+Vestibulum viverra ~~ipsum vitae magna rutrum~~ rhoncus. Donec pulvinar pellentesque dui non fermentum. Vivamus gravida, erat non rutrum luctus, nisi sem pharetra est, eget pharetra ligula enim at lacus.
 
 ## Paragraph 2 {#paragraph2}
 ***
