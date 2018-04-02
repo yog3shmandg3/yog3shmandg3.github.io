@@ -404,9 +404,14 @@ footer .theme-by {
 
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 35px;
+  font-size: 30px;
   margin-bottom: 5px;
 }
+
+.blog-post h1 {
+  font-size: 26px;
+}
+
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
   font-size: 15px;
@@ -468,7 +473,11 @@ footer .theme-by {
     font-size: 30px;
   }
   .intro-header .post-heading h1 {
-    font-size: 35px;
+    font-size: 30px;
+  }
+  
+  .blog-post h1 {
+    font-size: 26px;
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
