@@ -61,4 +61,6 @@ Cras vel velit et neque tempus elementum. Sed ultricies tortor vel purus molesti
   </a>
 </div>
 
+> Caption of second picture
+
 End of the post.
