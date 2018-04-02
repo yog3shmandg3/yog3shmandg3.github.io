@@ -64,7 +64,7 @@ Some more intermediate text
 3.  Update the title to match the name of your website.
 
 ### Pragraph 2.1 {#paragraph2-1}
-***
+
 Donec ac fermentum felis. Pellentesque placerat pretium quam nec interdum. 
 
 > Another quote example
@@ -72,11 +72,11 @@ Donec ac fermentum felis. Pellentesque placerat pretium quam nec interdum.
 Donec sodales tincidunt velit, sodales venenatis augue sodales ut.
 
 ## Paragraph 3 {#paragraph3}
-
+***
 Cras vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus. 
 
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+**_`Note: footnotes have weird behavior in chrome, explorer, edge, firefox.`_** Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
 
