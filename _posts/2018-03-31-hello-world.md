@@ -43,30 +43,17 @@ Morbi faucibus est ipsum, vitae condimentum massa facilisis id. Suspendisse tinc
 
 Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lorem mi quis libero.
 
-1. Donec vitae 
-2. Elit  
- Pellentesque placerat pretium quam nec vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus.
+1. Donec vitae (line break)
+2. Elit (line break)  
 
- Fusce ex dui, pulvinar _at quam_ vel
-
- tristique tincidunt ex. In ac molestie ante. Morbi a sem at est aliquet sodales.
-3. Feugiat sapien condimentum
-
- Cras et eros ut risus lacinia tincidunt. In erat justo
-
- Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa. 
+ Pellentesque placerat pretium quam nec vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus. (line break)  
+ Fusce ex dui, pulvinar _at quam_ vel (line break)  
+ tristique tincidunt ex. In ac molestie ante. Morbi a sem at est aliquet sodales. (line break)
+3. Feugiat sapien condimentum (line break)  
+ Cras et eros ut risus lacinia tincidunt. In erat justo (line break)  
+ Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa. (line break)
 
 Posuere quis a ex.
-
-1. Crack three eggs over a bowl.
-
- Now, you're going to want to crack the eggs in such a way that you don't make a mess.
-
- If you _do_ make a mess, use a towel to clean it up!
-
-2. Pour a gallon of milk into the bowl.
-
- Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
 ### Pragraph 2.1 {#paragraph2-1}
 
