@@ -10,7 +10,18 @@ layout: base
       <article role="main" class="blog-post">
 	      {{ content }}
 	    </article>
-	  	  
+	  
+	{% if page.tags %}
+		<div class="blog-tags">
+		<br>
+		  Tags:
+			{% for tag in page.tags %}
+			 <a href="http://afranques.com/blog/tags#{{- tag -}}">{{- tag -}}</a>
+			{% endfor %}
+		<br>
+	    	</div>
+	{% endif %}
+	    
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
@@ -23,16 +34,6 @@ layout: base
         </li>
         {% endif %}
       </ul>
-	    
-	{% if page.tags %}
-		<div class="blog-tags">
-		<br>
-		  Tags:
-			{% for tag in page.tags %}
-			 <a href="http://afranques.com/blog/tags#{{- tag -}}">{{- tag -}}</a>
-			{% endfor %}
-		</div>
-	{% endif %}
       
 	    {% if page.comments %}
         <div class="disqus-comments">
