@@ -16,7 +16,7 @@ Vestibulum viverra ipsum vitae magna rutrum rhoncus. Donec pulvinar pellentesque
 
 <div style="text-align:center;">
   <a href="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726.jpg">
-    <img src="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726.jpg" alt="course logo" style="">
+    <img src="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726.jpg" alt="course logo" style="width: 50%">
   </a>
 </div>
 
