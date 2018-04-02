@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Hello world
+title: Hello world - two days before
 tags: [test, travel]
-permalink: /blog/2016-07-04-hello-world/
-date: 2018-03-31 11:20:00 -0500
-lastupdated: 2018-04-02
+permalink: /blog/2016-07-04-hello-world3/
+date: 2018-03-29 11:20:00 -0500
+lastupdated: 2018-03-29
 ---
+
 
 Lorem ipsum **dolor sit amet**, consectetur adipiscing elit. [Vivamus ipsum mauris](http://afranques.com), sollicitudin ut porta quis, fringilla `non magna`. Ut semper [`dolor sagittis sapien`](http://afranques.com) sodales, non aliquam sapien pharetra. Aliquam erat volutpat.
 
