@@ -24,14 +24,15 @@ layout: base
         {% endif %}
       </ul>
 	    
-	    {% if page.tags %}
-	<div class="blog-tags">
-          Tags:
-		{% for tag in page.tags %}
-		 <a href="http://afranques.com/blog/tags#{{- tag -}}">{{- tag -}}</a>
-		{% endfor %}
-        </div>
-{% endif %}
+	{% if page.tags %}
+		<div class="blog-tags">
+		<br>
+		  Tags:
+			{% for tag in page.tags %}
+			 <a href="http://afranques.com/blog/tags#{{- tag -}}">{{- tag -}}</a>
+			{% endfor %}
+		</div>
+	{% endif %}
       
 	    {% if page.comments %}
         <div class="disqus-comments">
