@@ -420,6 +420,11 @@ footer .theme-by {
   font-size: 26px;
 }
 
+/* AF: added to modify exclusively the subtitle size in each post */
+.post-subheading {
+  font-size: 20px;
+}
+
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
   font-size: 15px;
@@ -435,11 +440,6 @@ footer .theme-by {
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
   font-weight: 400;
-}
-
-/* AF: added to modify exclusively the subtitle size in each post */
-.post-subheading {
-  font-size: 20px;
 }
 
 .intro-header.big-img .page-heading hr {
