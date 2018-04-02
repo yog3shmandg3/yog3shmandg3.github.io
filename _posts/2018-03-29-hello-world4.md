@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Hello world
-subtitle: "part 2 of 3"
+title: Just another test
 tags: [test, travel]
-date: 2018-03-30 11:20:00 -0500
-lastupdated: 2018-03-30
+date: 2018-03-28 11:20:00 -0500
+lastupdated: 2018-03-28
 ---
+
 
 Lorem ipsum **dolor sit amet**, consectetur adipiscing elit. [Vivamus ipsum mauris](http://afranques.com), sollicitudin ut porta quis, fringilla `non magna`. Ut semper [`dolor sagittis sapien`](http://afranques.com) sodales, non aliquam sapien pharetra. Aliquam erat volutpat.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hello world - two days before
+title: Hello world
+subtitle: "part 1 of 3"
 tags: [test, travel]
-permalink: /blog/2016-07-04-hello-world3/
 date: 2018-03-29 11:20:00 -0500
 lastupdated: 2018-03-29
 ---
