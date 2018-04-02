@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Vivamus ipsum mauris](
 
 - [Paragraph1](#paragraph1)
 - [Paragraph2](#paragraph2)
-  - [Paragraph2.1](#paragraph2.1)
+  - [Paragraph2.1](#paragraph2-1)
 - [Paragraph3](#paragraph3)
 
 ## Paragraph 1 {#paragraph1}
@@ -38,7 +38,7 @@ Sed a lacus condimentum, faucibus tellus gravida, elementum odio. Donec ligula m
 
 Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lorem mi quis libero. Donec vitae elit feugiat sapien condimentum posuere quis a ex.
 
-### Pragraph 2.1 {#paragraph2.1}
+### Pragraph 2.1 {#paragraph2-1}
 
 Donec ac fermentum felis. Pellentesque placerat pretium quam nec interdum. Donec sodales tincidunt velit, sodales venenatis augue sodales ut.
 
