@@ -49,11 +49,32 @@ Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lore
  Pellentesque placerat pretium quam nec vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus. (line break)  
  Fusce ex dui, pulvinar _at quam_ vel (line break)  
  tristique tincidunt ex. In ac molestie ante. Morbi a sem at est aliquet sodales. (line break)
+ 
 3. Feugiat sapien condimentum (line break)  
  Cras et eros ut risus lacinia tincidunt. In erat justo (line break)  
  Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa. (line break)
 
 Posuere quis a ex.
+
+*   This is the first list item.
+*   Here's the second list item. Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa
+
+    I need to add another paragraph below the second list item. Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa  
+    Here's a line break
+
+*   And here's the third list item.
+
+Some more intermediate text
+
+1.  Open the file.
+2.  Find the following code block on line 21:
+
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+
+3.  Update the title to match the name of your website.
 
 ### Pragraph 2.1 {#paragraph2-1}
 
