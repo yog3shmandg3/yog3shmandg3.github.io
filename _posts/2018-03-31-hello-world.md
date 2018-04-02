@@ -28,7 +28,10 @@ Vestibulum viverra ipsum vitae magna rutrum rhoncus. Donec pulvinar pellentesque
 
 ## Paragraph 2 {#paragraph2}
 
-Sed a lacus condimentum, faucibus tellus gravida, elementum odio. Donec ligula mi, imperdiet non ligula vitae, vestibulum tincidunt quam. Fusce eros lorem, molestie quis dolor sed, feugiat porta erat. Morbi faucibus est ipsum, vitae condimentum massa facilisis id. Suspendisse tincidunt vulputate sagittis.
+Sed a lacus condimentum, faucibus tellus gravida, elementum odio. Donec ligula mi, imperdiet non ligula vitae, vestibulum tincidunt quam. Fusce eros lorem, molestie quis dolor sed, feugiat porta erat. 
+> Quote example
+
+Morbi faucibus est ipsum, vitae condimentum massa facilisis id. Suspendisse tincidunt vulputate sagittis.
 
 <div style="text-align:center;">
   <a href="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726.jpg">
@@ -36,11 +39,17 @@ Sed a lacus condimentum, faucibus tellus gravida, elementum odio. Donec ligula m
   </a>
 </div>
 
+> Caption of the picture
+
 Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lorem mi quis libero. Donec vitae elit feugiat sapien condimentum posuere quis a ex.
 
 ### Pragraph 2.1 {#paragraph2-1}
 
-Donec ac fermentum felis. Pellentesque placerat pretium quam nec interdum. Donec sodales tincidunt velit, sodales venenatis augue sodales ut.
+Donec ac fermentum felis. Pellentesque placerat pretium quam nec interdum. 
+
+> Another quote example
+
+Donec sodales tincidunt velit, sodales venenatis augue sodales ut.
 
 ## Paragraph 3 {#paragraph3}
 
