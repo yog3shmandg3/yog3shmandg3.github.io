@@ -406,6 +406,7 @@ footer .theme-by {
   margin-top: 0;
   font-size: 30px;
   margin-bottom: 5px;
+  text-decoration: underline;
 }
 
 .blog-post h1 {
@@ -474,6 +475,7 @@ footer .theme-by {
   }
   .intro-header .post-heading h1 {
     font-size: 30px;
+    text-decoration: underline;
   }
   
   .blog-post h1 {
