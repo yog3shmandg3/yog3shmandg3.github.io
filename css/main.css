@@ -436,6 +436,12 @@ footer .theme-by {
 .intro-header.big-img .post-heading .post-subheading {
   font-weight: 400;
 }
+
+/* AF: added to modify exclusively the subtitle size in each post */
+.post-subheading {
+  font-size: 20px;
+}
+
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
   -webkit-box-shadow: 1px 1px 3px #000;
