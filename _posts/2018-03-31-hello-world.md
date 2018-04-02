@@ -20,6 +20,18 @@ Vestibulum viverra ipsum vitae magna rutrum rhoncus. Donec pulvinar pellentesque
   </a>
 </div>
 
+<div style="text-align:center;">
+  <a href="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726(3mb).jpg">
+    <img src="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726(3mb).jpg" alt="course logo" style="">
+  </a>
+</div>
+
+<div style="text-align:center;">
+  <a href="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726(1mb).jpg">
+    <img src="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726(1mb).jpg" alt="course logo" style="">
+  </a>
+</div>
+
 Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lorem mi quis libero. Donec vitae elit feugiat sapien condimentum posuere quis a ex. Donec ac fermentum felis. Pellentesque placerat pretium quam nec interdum. Donec sodales tincidunt velit, sodales venenatis augue sodales ut. Cras vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus. Fusce ex dui, pulvinar at quam vel, tristique tincidunt ex. In ac molestie ante. Morbi a sem at est aliquet sodales.
 
 <div style="text-align:center;">
