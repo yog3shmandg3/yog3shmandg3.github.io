@@ -15,20 +15,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Vivamus ipsum mauris](
 Vestibulum viverra ipsum vitae magna rutrum rhoncus. Donec pulvinar pellentesque dui non fermentum. Vivamus gravida, erat non rutrum luctus, nisi sem pharetra est, eget pharetra ligula enim at lacus. Sed a lacus condimentum, faucibus tellus gravida, elementum odio. Donec ligula mi, imperdiet non ligula vitae, vestibulum tincidunt quam. Fusce eros lorem, molestie quis dolor sed, feugiat porta erat. Morbi faucibus est ipsum, vitae condimentum massa facilisis id. Suspendisse tincidunt vulputate sagittis.
 
 <div style="text-align:center;">
-  <a href="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726(big).jpg">
-    <img src="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726(big).jpg" alt="course logo" style="">
-  </a>
-</div>
-
-<div style="text-align:center;">
-  <a href="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726(3mb).jpg">
-    <img src="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726(3mb).jpg" alt="course logo" style="">
-  </a>
-</div>
-
-<div style="text-align:center;">
-  <a href="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726(1mb).jpg">
-    <img src="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726(1mb).jpg" alt="course logo" style="">
+  <a href="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726.jpg">
+    <img src="https://github.com/afranques/afranques.github.io/raw/master/img/IMG_20170825_173726.jpg" alt="course logo" style="">
   </a>
 </div>
 
