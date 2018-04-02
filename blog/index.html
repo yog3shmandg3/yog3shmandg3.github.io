@@ -34,7 +34,7 @@ subtitle: ""
     </p>
 
     <div class="post-entry">
-      {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
+      {{ post.content | strip_html | xml_escape | truncatewords: 20 }}
 	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
 
