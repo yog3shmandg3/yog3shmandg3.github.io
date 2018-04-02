@@ -7,7 +7,7 @@ date: 2018-03-31 11:20:00 -0500
 lastupdated: 2018-04-02
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Vivamus ipsum mauris](http://afranques.com), sollicitudin ut porta quis, fringilla non magna. Ut semper dolor sagittis sapien sodales, non aliquam sapien pharetra. Aliquam erat volutpat.
+Lorem ipsum **dolor sit amet**, consectetur adipiscing elit. [Vivamus ipsum mauris](http://afranques.com), sollicitudin ut porta quis, fringilla `non magna`. Ut semper [`dolor sagittis sapien`](http://afranques.com) sodales, non aliquam sapien pharetra. Aliquam erat volutpat.
 
 # Table of contents
 
@@ -39,9 +39,34 @@ Morbi faucibus est ipsum, vitae condimentum massa facilisis id. Suspendisse tinc
   </a>
 </div>
 
-> Caption of the picture
+> Testing quotes as caption of the picture
 
-Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lorem mi quis libero. Donec vitae elit feugiat sapien condimentum posuere quis a ex.
+Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lorem mi quis libero.
+
+1. Donec vitae 
+2. Elit  
+ Pellentesque placerat pretium quam nec vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus.
+
+ Fusce ex dui, pulvinar _at quam_ vel
+
+ tristique tincidunt ex. In ac molestie ante. Morbi a sem at est aliquet sodales.
+3. Feugiat sapien condimentum
+
+ Cras et eros ut risus lacinia tincidunt. In erat justo
+
+ Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa. 
+
+Posuere quis a ex.
+
+1. Crack three eggs over a bowl.
+
+ Now, you're going to want to crack the eggs in such a way that you don't make a mess.
+
+ If you _do_ make a mess, use a towel to clean it up!
+
+2. Pour a gallon of milk into the bowl.
+
+ Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
 ### Pragraph 2.1 {#paragraph2-1}
 
@@ -61,6 +86,6 @@ Cras vel velit et neque tempus elementum. Sed ultricies tortor vel purus molesti
   </a>
 </div>
 
-> Caption of second picture
+> Caption of second picture (*it looks bad, don't use quote style for captions. Modify code to write captions in italic, centered and smaller size, so that it looks better*)
 
 End of the post.
