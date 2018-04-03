@@ -5,7 +5,7 @@ tags: [travel, usa, road trip]
 date: "2018-04-02 22:18"
 ---
 
-![Collage summary road trip SF to Denver](../img/road-trip-sf-den-collage/collage-road-trip-sf-den.jpg)
+![Collage summary road trip SF to Denver](../img/road-trip-sf-den-collage/collage-road-trip-sf-den-smaller.jpg)
 
 **Travel date:** May 2017
 **Duration of the trip:** 10 full days + 2 for arrival/departure flights
@@ -19,7 +19,7 @@ Lorem ipsum **dolor sit amet**, consectetur _adipiscing_ elit. [Vivamus ipsum ma
   - [Paragraph2.1](#paragraph2-1)
 - [Paragraph3](#paragraph3)
 
-[![road-trip-map](../img/road-trip-map.png)]
+![road-trip-map](../img/road-trip-map.png)
 
 ## Paragraph 1 {#paragraph1}
 ***
