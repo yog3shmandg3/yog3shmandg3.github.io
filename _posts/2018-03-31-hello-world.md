@@ -1,13 +1,18 @@
 ---
 layout: post
 title: Hello world
-subtitle: "part 3 of 3"
-tags: [test, travel]
-date: 2018-03-31 11:20:00 -0500
-lastupdated: 2018-04-02
+subtitle: part 3 of 3
+tags:
+  - test
+  - travel
+date: '2018-03-31 11:20:00 -0500'
+lastupdated: 2018-04-02T00:00:00.000Z
+categories: []
 ---
 
-Lorem ipsum **dolor sit amet**, consectetur adipiscing elit. [Vivamus ipsum mauris](http://afranques.com), sollicitudin ut porta quis, fringilla `non magna`. Ut semper [`dolor sagittis sapien`](http://afranques.com) sodales, non aliquam sapien pharetra. Aliquam erat volutpat.
+Lorem ipsum **dolor sit amet**, consectetur _adipiscing_ elit. [Vivamus ipsum mauris](http://afranques.com), sollicitudin ut porta quis, fringilla `non magna`. Ut semper [`dolor sagittis sapien`](http://afranques.com) sodales, non aliquam sapien pharetra. Aliquam erat volutpat.
+
+![road-trip-map](../img/road-trip-map.png)
 
 # Table of contents
 
@@ -28,7 +33,7 @@ Vestibulum viverra ~~ipsum vitae magna rutrum~~ rhoncus. Donec pulvinar pellente
 
 ## Paragraph 2 {#paragraph2}
 ***
-Sed a lacus condimentum, faucibus tellus gravida, elementum odio. Donec ligula mi, imperdiet non ligula vitae, vestibulum tincidunt quam. Fusce eros lorem, molestie quis dolor sed, feugiat porta erat. 
+Sed a lacus condimentum, faucibus tellus gravida, elementum odio. Donec ligula mi, imperdiet non ligula vitae, vestibulum tincidunt quam. Fusce eros lorem, molestie quis dolor sed, feugiat porta erat.
 > Quote example
 
 Morbi faucibus est ipsum, vitae condimentum massa facilisis id. Suspendisse tincidunt vulputate sagittis.
@@ -46,7 +51,7 @@ Fusce pulvinar, est at interdum vehicula, est urna eleifend odio, ut mattis lore
 *   This is the first list item.
 *   Here's the second list item. Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa
 
-    I need to add another paragraph below the second list item. Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa  
+    I need to add another paragraph below the second list item. Varius vitae dignissim mattis, auctor id arcu. Donec tempus lacinia malesuada. In hac habitasse platea dictumst. Etiam odio dolor, congue eget laoreet eget, eleifend vel velit. Ut vitae venenatis massa
     Here's a line break
 
 *   And here's the third list item.
@@ -65,7 +70,7 @@ Some more intermediate text
 
 ### Pragraph 2.1 {#paragraph2-1}
 
-Donec ac fermentum felis. Pellentesque placerat pretium quam nec interdum. 
+Donec ac fermentum felis. Pellentesque placerat pretium quam nec interdum.
 
 > Another quote example
 
@@ -73,7 +78,7 @@ Donec sodales tincidunt velit, sodales venenatis augue sodales ut.
 
 ## Paragraph 3 {#paragraph3}
 ***
-Cras vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus. 
+Cras vel velit et neque tempus elementum. Sed ultricies tortor vel purus molestie, a iaculis ante cursus.
 
 
 **_`Note: footnotes have weird behavior in chrome, explorer, edge, firefox.`_** Here's a simple footnote,[^1] and here's a longer one.[^bignote]
