@@ -9,6 +9,7 @@ date: "2018-04-02 22:18"
     - add duration of travel for each day, and a breakdown of hours per day so that everyone has an estimate of how much time they should Suspendisse
     - add map at the top of each post for the route of that day5
     - add your own or other people 360 photos and/or videos
+    - add links to products in packing list, and explain why they might need it
 -->
 
 ![Collage summary road trip SF to Denver](../img/road-trip-sf-den-collage/collage-road-trip-sf-den.jpg)
@@ -26,11 +27,11 @@ _**Common abbreviations:** SF (San Francisco), NP (National Park), LA (Los Angel
 
 # Table of contents
 
-- [Tips & Advice](#tipsandadvice)
-- [Packing List](#packinglist)
-- [Cost summary of the trip](#costoftrip)
-- [Weather expectetions](#weather)
-- [Schedule](#schedule)
+- [Tips & advice](#tipsandadvice)
+- [Packing list](#packinglist)
+- [Cost summary of the trip](#cost)
+- [Weather expectations](#weather)
+- Schedule
   - [Day 1: Arrival to San Francisco](#day1)
   - [Day 2: San Francisco &rarr; Yosemite NP &rarr; Oakland](#day2)
   - [Day 3: Basketball game &rarr; Golden Gate Bridge &rarr; Sausalito](#day3)
@@ -46,7 +47,7 @@ _**Common abbreviations:** SF (San Francisco), NP (National Park), LA (Los Angel
 
 ![road-trip-map](../img/road-trip-map.png)
 
-## Tips & Advice {#tipsandadvice}
+## Tips & advice {#tipsandadvice}
 ***
 - Check the _national parks app_ by Rei
 - Check freecampsites.net for dispersed (wild camping) free camping
@@ -55,10 +56,11 @@ _**Common abbreviations:** SF (San Francisco), NP (National Park), LA (Los Angel
 - Eat at any of the multiple In-n-out restaurants (it’s like McDonalds but much better and cheaper. It’s an american classic)
 - If I indicate a place with a combination of numbers and letters like 857CX23X+RX is because it’s a plus code, which can be used in google maps to search a specific location that doesn’t necessarily have a regular address
 
-## Packing List {#packinglist}
+## Packing list {#packinglist}
 ***
 - Clothing & gear
     - Comfortable long/short pants
+    - Joggers or similar for the long driving hours (in case the regular pants are not stretchy enough)
     - T-shirts
     - Shirts
     - Underwear
@@ -72,31 +74,44 @@ _**Common abbreviations:** SF (San Francisco), NP (National Park), LA (Los Angel
     - Rain jacket
     - Thermal long-sleeve t-shirt (if travelling in cold months)
     - Thermal long pants (if travelling in cold months)
+    - Gloves (if travelling in cold months)
     - Beanie (if travelling in cold months)
+    - Buff or similar
     - Baseball cap or similar
     - Sunglasses category 3/4
     - Hiking poles
     - Day backpack
     - Flip-flops/slides - ideal for showering in places of doubtful hygiene, going to the beach (LA), and to walk around the room/house
+    - Swimwear (LA)
 - Camping (optional)
     - Camping tent
     - Sleeping bag
     - Sleeping pad
     - Air pillow
     - Head lamp
+    - Sleeping mask
 - Electronics
     - Phone charger/s
     - Battery bank/s (1 small + 1 big)
     - Car phone charger
     - Plug adapters (if travelling from outside US)
-    - 
 - Other
+    - Passport and ESTA (if travelling from outside US)
+    - Driving lincese (see compatibility with your country if travelling from outside US)
     - Sunscream
     - Toothbrush and toothpaste
     - Travel towel
+    - First aid, pills or any other personal medical needs
 - Food (buy in supermarkets along the way)
     - Can opener
-    - plastic/paper plates
-    - plastic forks/knives/spoons
-    - plastic cups
-    - 
+    - Plastic/paper plates
+    - Plastic forks/knives/spoons
+    - Plastic cups
+    - Bottled water
+    - Food of preference - Suggestions: canned beans, canned tuna, canned chicken, bananas, bread, dried fruits, nuts... In general anything that doesn't require cookware and is easy to prepare while giving enough nutritional value
+
+## Cost summary of the trip {#cost}
+***
+
+## Weather expectations {#weather}
+***
