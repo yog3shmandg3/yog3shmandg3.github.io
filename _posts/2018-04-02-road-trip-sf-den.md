@@ -14,7 +14,7 @@ date: "2018-04-02 22:18"
 
 ![Collage summary road trip SF to Denver](../img/road-trip-sf-den-collage/collage-road-trip-sf-den.jpg)
 
-**Travel date:** May 2017  
+**Date of travel:** May 2017  
 **Duration of the trip:** 10 full days + 2 for arrival/departure flights  
 **Main locations:** San Francisco (start), Yosemite NP, Los Angeles, Las Vegas, Zion NP, Bryce Canyon NP, Horseshoe Bend, Grand Canyon NP, Monument Valley Navajo Tribal Park, Arches NP, Denver (finish)  
 **Group size:** 2 people  
@@ -22,7 +22,7 @@ date: "2018-04-02 22:18"
 **Total driving time**: 36+ hours  
 **Total distance**: 3506+ km  
 
-_**Note:** click on the images to enlarge them_  
+_`**Note:** click on the images to enlarge them`_  
 _**Common abbreviations:** SF (San Francisco), NP (National Park), LA (Los Angeles)_
 
 # Table of contents
