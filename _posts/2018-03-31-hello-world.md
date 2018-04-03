@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello world
-subtitle: part 3 of 3
+title: "Hello world"
+subtitle: "In case you ever need a subtitle"
 tags:
   - test
   - travel
