@@ -10,6 +10,7 @@ date: "2018-04-02 22:18"
     - add map at the top of each post for the route of that day5
     - add your own or other people 360 photos and/or videos
     - add links to products in packing list, and explain why they might need it
+    - do i want to put several posts for different days or all in one? if someone wants to get a full list of what to do in each place, if you divide the place into several days it's gonna be difficult for that person to get a whole idea of what to do in the area, because you're gonna force him to look around your posts and collect the information himself
 -->
 
 ![Collage summary road trip SF to Denver](../img/road-trip-sf-den-collage/collage-road-trip-sf-den.jpg)
