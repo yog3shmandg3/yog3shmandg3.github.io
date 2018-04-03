@@ -47,7 +47,7 @@ _**`Common abbreviations: SF (San Francisco), NP (National Park), LA (Los Angele
 
 ![road-trip-map](../img/road-trip-map.png)
 
-Link to the map: https://bit.ly/2GtIYIT
+Link to the map: https://bit.ly/2H9W5Mo
 
 ## Tips & advice {#tipsandadvice}
 ***
