@@ -23,7 +23,7 @@ date: "2018-04-02 22:18"
 **Total distance**: 3506+ km  
 
 _**`Note: click on the images to enlarge them`**_  
-_`Common abbreviations: SF (San Francisco), NP (National Park), LA (Los Angeles)`_
+_**`Common abbreviations: SF (San Francisco), NP (National Park), LA (Los Angeles)`**_
 
 # Table of contents
 
