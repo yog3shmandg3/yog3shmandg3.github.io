@@ -45,7 +45,7 @@ _**`Common abbreviations: SF (San Francisco), NP (National Park), LA (Los Angele
   - [Day 11: Monument Valley &rarr; Arches NP &rarr; Denver](#day11)
   - [Day 12: Departure from Denver](#day12)
 
-![road-trip-map](../img/road-trip-map.png)
+[![road-trip-map](../img/road-trip-map.png)](../img/road-trip-map.png)
 
 Link to the map: https://bit.ly/2H9W5Mo
 
