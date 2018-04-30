@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello world"
+title: "Hello world (test)"
 subtitle: "In case you ever need a subtitle"
 tags:
   - test
