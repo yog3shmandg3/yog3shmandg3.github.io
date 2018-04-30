@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Road trip: San Francisco to Denver"
+title: "Road trip: San Francisco to Denver (incomplete)"
 tags: [travel, usa, road trip]
 date: "2018-04-02 22:18"
 ---
