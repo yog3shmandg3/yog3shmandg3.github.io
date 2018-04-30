@@ -12,7 +12,7 @@ categories: []
 
 Lorem ipsum **dolor sit amet**, consectetur _adipiscing_ elit. [Vivamus ipsum mauris](http://afranques.com), sollicitudin ut porta quis, fringilla `non magna`. Ut semper [`dolor sagittis sapien`](http://afranques.com) sodales, non aliquam sapien pharetra. Aliquam erat volutpat.
 
-[![road-trip-map](../img/road-trip-map.png)]
+![road-trip-map](../img/road-trip-map.png)
 
 # Table of contents
 
