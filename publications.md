@@ -13,10 +13,10 @@ subtitle: ""
 X. Timoneda, S. Abadal, A. Cabellos-Aparicio, D. Manessis, J. Zhou, **A. Franques**, J. Torrellas, E. Alarcón. 
 Proceedings of the ISCAS ’18, Florence, Italy, May 2018. [(PDF)](/docs/ISCAS_2018_CompPackage.pdf)
 
-### 2017
+<!-- ### 2017
 - **Adapting Programs for Wireless On-Chip Communication**.  
 V. Fernando, **A. Franques**, S. Abadal, S. Misailovic, J. Torrellas.  
-Submitted to ISCA '18.
+Submitted to ISCA '18. -->
 
 ### 2016
 - **Chaos and Convergence of a family generalizing Homeier’s method with damping parameters**.  
