@@ -16,4 +16,4 @@ Although I am currently living in [Champaign](https://en.wikipedia.org/wiki/Cham
 
 <!-- Besides Computer Science related topics, my other personal interests include cooking, running/hiking, rock climbing and [travelling](http://afranques.com/blog/travel/). -->
 
-You can find a copy of my resume [here](/docs/resume_long_antonio.pdf). And you can email me at either [franques.antonio@gmail.com](mailto:franques.antonio@gmail.com) (personal) or [franque2@illinois.edu](mailto:franque2@illinois.edu) (academic).
+You can find a two-page copy of my resume [here](https://github.com/afranques/resume/raw/master/resume_double_page_antonio.pdf), and the one-page version [here](https://github.com/afranques/resume/raw/master/resume_single_page_antonio.pdf). Also, you can email me at either [franques.antonio@gmail.com](mailto:franques.antonio@gmail.com) (personal) or [franque2@illinois.edu](mailto:franque2@illinois.edu) (academic).
