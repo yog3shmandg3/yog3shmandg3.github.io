@@ -101,7 +101,7 @@ Link to the map: https://bit.ly/2H9W5Mo
 - Other
     - Passport and ESTA (if travelling from outside US)
     - Driving lincese (see compatibility with your country if travelling from outside US)
-    - Sunscream
+    - Sunscreen
     - Toothbrush and toothpaste
     - Travel towel
     - First aid, pills or any other personal medical needs
