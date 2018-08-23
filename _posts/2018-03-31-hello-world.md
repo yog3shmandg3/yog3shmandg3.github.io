@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello world (test)"
-subtitle: "In case you ever need a subtitle"
+title: "Test"
+subtitle: "Test subtitle"
 tags:
   - test
   - travel
