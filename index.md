@@ -6,8 +6,8 @@ comments: false
 <div class="index_header_space"></div>
 <img class="profile_picture" src="/img/profile_picture.jpg">
 
-Hi, I am Antonio Franques, PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
-
+Hi, I am Antonio Franques, PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu). <br clear="left" />
+<br clear="left" />
 ### News
 **Month Year:** The news for this month and year. <br/>
 **Month Year:** The news for this month and year. <br/>
