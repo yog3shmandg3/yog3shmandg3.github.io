@@ -9,10 +9,10 @@ comments: false
 Hi, I am Antonio Franques, PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
 
 ### News
-**Month Year:** The news for this month and year.</br>
-**Month Year:** The news for this month and year.</br>
-**Month Year:** The news for this month and year.</br>
-**Month Year:** The news for this month and year.</br>
+**Month Year:** The news for this month and year. </br>
+**Month Year:** The news for this month and year. </br>
+**Month Year:** The news for this month and year. </br>
+**Month Year:** The news for this month and year. </br>
 **Month Year:** The news for this month and year.
 
 ### In Brief
