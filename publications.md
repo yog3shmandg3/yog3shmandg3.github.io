@@ -9,9 +9,9 @@ subtitle: ""
 {% endif %}
 
 ### 2018
-- **Adapting Programs for Wireless On-Chip Communication**.  
+- **Replica: A Wireless Manycore for Latency-Critical Data**.  
 V. Fernando, **A. Franques**, S. Abadal, S. Misailovic, J. Torrellas.  
-_Under Submission_.
+To appear in the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Providence, USA, April 2019.
 
 - **Millimeter-Wave Propagation within a Computer Chip Package**.  
 X. Timoneda, S. Abadal, A. Cabellos-Aparicio, D. Manessis, J. Zhou, **A. Franques**, J. Torrellas, E. Alarcón. 
