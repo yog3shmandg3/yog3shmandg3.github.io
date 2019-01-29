@@ -8,7 +8,7 @@ comments: false
 
 Hi, I am Antonio Franques, PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
 
-I am a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group, led by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). My research focuses on the application of high-frequency wireless on-chip communication in massive multi-core architectures. Specifically, my goal is to design new shared-memory architectures that reduce the large cost of core-to-core communications in parallel computing, and even solve the problem of _the coherency wall_. I envision a future in exascale computing where software developers will build their parallel applications using a unified programming model for both shared and distributed memory, such as MPI-3, and the underlying hardware will be able to manage the interface between them. <br clear="left" />
+I am a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group, led by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). My research focuses on the application of high-frequency wireless on-chip communication in manycore architectures. Specifically, my goal is to design new shared-memory architectures that reduce the large cost of core-to-core communications in parallel computing <br clear="left" />
 
 In 2015 I received my Bachelor's Degree in Telecommunications Engineering from [Polytechnic University of Valencia (UPV)](http://www.upv.es/index-en.html). During my undegradate studies, I also performed almost two years of research in the area of Computational Mathematics under the supervision of Professors Juan Ramon Torregrosa and Alicia Cordero. 
 
