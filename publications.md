@@ -9,11 +9,11 @@ subtitle: ""
 {% endif %}
 
 ### 2019
-- **Opportunistic Beamforming in Wireless Network-on-Chip**.
+- **Opportunistic Beamforming in Wireless Network-on-Chip**. </br>
 S. Abadal, A. Marruedo, **A. Franques**, H. Taghvaee, A. Cabellos-Aparicio, J. Zhou, J. Torrellas, E. Alarcón.
 To appear in the International Symposium on Circuits and Systems, Sapporo, Japan, May 2019.
 
-- **Replica: A Wireless Manycore for Latency-Critical Data**.  
+- **Replica: A Wireless Manycore for Communication-Intensive and Approximate Data**. </br>
 V. Fernando, **A. Franques**, S. Abadal, S. Misailovic, J. Torrellas.  
 To appear in the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Providence, USA, April 2019. [(PDF)](/docs/ASPLOS_2019_Replica.pdf)
 
