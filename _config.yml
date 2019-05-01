@@ -41,6 +41,7 @@ author:
   email: "franques.antonio@gmail.com"
   facebook: afranques  # eg. daattali
   github: afranques   # eg. daattali
+  scholar: 0SIrK0MAAAAJ&hl=en # Antonio Franques scholar profile
   instagram: afranques
   twitter: a_franques   # eg. daattali
   linkedin: in/afranques  # eg. "pub/dean-attali/8/946/143"
@@ -50,12 +51,13 @@ author:
 footer-links-active:
   rss: false
   facebook: false
+  scholar: true
   email: true
   twitter: true
   github: true
   linkedin: true
   stackoverflow: false
-  instagram: false
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
