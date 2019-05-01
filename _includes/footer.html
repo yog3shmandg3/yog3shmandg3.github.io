@@ -33,6 +33,16 @@
             </a>
           </li>
           {% endif %}
+	  {% if site.author.linkedin and site.footer-links-active.linkedin %}
+          <li>
+            <a href="https://linkedin.com/{{ site.author.linkedin }}" title="LinkedIn">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
           {% if site.author.github and site.footer-links-active.github %}
           <li>
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
@@ -49,16 +59,6 @@
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-	  {% if site.author.linkedin and site.footer-links-active.linkedin %}
-          <li>
-            <a href="https://linkedin.com/{{ site.author.linkedin }}" title="LinkedIn">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
               </span>
             </a>
           </li>
