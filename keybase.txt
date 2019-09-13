@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/afranques
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://afranques.com
+  * I am afranques (https://keybase.io/afranques) on keybase.
+  * I have a public key with fingerprint 0BE0 D6A2 6AB3 2D05 45E1  BAF9 A6AF 6D4F A3BA 728C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120372d20547fcd34c9d362784708d6411d0a2bbb1f2c1e1f1880f6ad424f5b18b80a",
+      "fingerprint": "0be0d6a26ab32d0545e1baf9a6af6d4fa3ba728c",
+      "host": "keybase.io",
+      "key_id": "a6af6d4fa3ba728c",
+      "kid": "01016593f6388b0448fa07af53a97be7e5891a17336bb785449794f9bf1a708901000a",
+      "uid": "2f472460d5492c61081190c791db1a19",
+      "username": "afranques"
+    },
+    "service": {
+      "hostname": "afranques.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568334539,
+  "expire_in": 157680000,
+  "prev": "f09d9541524b8c3c741136e1fd2892323ec186dfdc7ce3de4b7c7a1fd1c75a5e",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNtAnicbZJrTFxFGIa5Ce5GLaG2liJVj6IECZzLnNtCSwyWe9QUEFRwmTkzB1Zg
+l72wgIgi0AtKg8VebGmTYgMtpBciBi023GrdCtZWKxgbbS1IW7QEivCDKhvPIfaP
+8ddkvnnfZ95v5vvyQX8fo2/HqdIXj/Q5mnxHh/aX++S/OTFaTSEbrqJM1VQxWVlI
+CSZOl7nYgikTRTMszYksZmkeiKqCOaDImBNYUQIiLWEBMAymIYsQYlRWYQijMpJE
+qwLEgAUqjxgJSTSkoinVYi0kjjKHxerSsYjQWICsABHHYo3NEwZBVYYCVAUMVMgh
+KLKSohmLbE7doYVD0EliLDatpm3MK/H+R38vN80IvMypAidJiAZAUiEtQpXnoCwi
+IhJekhnIiBwnICRKPACyKANVRioDtcZkzU+v5C5fwbEqEFkg0JgHMqsIDC0xjEwr
+osxgpGFkXegkDissJXoq1QGt9nLipGqiKa3stihEf1m9lf9KYhRbqeYuc9hcNsVW
+oh0VuVxlJt3pqirTpRUEmf+FmJHFirWH1Axu4nBabFbKxGhKxWXRqQwvSBwHeE6O
+pkhlmcVBzBZdwYuCpLVD69cQt4ZUaRnLPGB4FiBJ4RRR+0ZO0D4Ps5LMcixHFEYS
+sIoVUSEcJgCJigi1Y0YRecgTSm/LbrVpbFHLCQs1ptNSaIWucgehaoaH8gJ8fI0+
+gff56RPmYzQE35s7+fwqrym3+pf0uT0B0Ycv1i6BXRHPFv8c2tAQ3srff7yh81xA
+1rebt2yVhv153+tL7/1ZemLi6ZtVme2RBYPGuybY2Z805jl55LMD3auzpVte+/7p
+8NxtceOPpMHWJzMTAyveaRsGCy8E1hkufvNpuJ9z4t3UomfsqZlvbD9kfqpjwxPf
+L/rNTEy1TP024pF9e4LPtvF+WYM7ls7EFHlXvz3lNCellOB8/PDApuq1LYE7XNkn
+JsObit3HJ+vCrmTMd3g+j/skPj1yrD5ssihNOtB0OM5zI0a625u67uBrjnbBu/HH
+4eX+199KsCf//UHf3ozp27P2ruCgwuZzu93nOZidXHww5NHQS9zmpJzYQwlVaE3q
+X9NoNvJOVEV6mJKaVNUWe6xxb93UusqFhE31jcn1PTWr5DtZ9ZVq/O3LpsWgxMWZ
+M/nLJ/Pjm58b9/6aF7V2dtee5e6rbUev95UfzWlYP+V5ICFlTVTm+HxIypb3529x
+H3U/VvNF8g1vPQn8wRjaY6htvXCqm3ee7ho0bNv5h7O5da6lYoQyBOzzzw19peBY
+zNjuXvPzeb9f+ykCtC+Agf7sEW+seyh9CZ99fKD3JVf4aJpjohaU9mQ8tOra9pCu
+C/sMp7tT7IMJL9u/G8lKbLwaHLHRWNvZajePzGwoYK/MBHg/noPDhqCl9V+pOZ6b
+Oa9u/Xrnh5cv0f8A3TLBsA==
+=sZNz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/afranques
+
+==================================================================
