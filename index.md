@@ -10,7 +10,7 @@ Hi, I am Antonio Franques, a PhD student in Computer Science at the [University 
 
 I am advised by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focuses on the application of high-frequency wireless on-chip communication in manycore architectures. Specifically, my goal is to design new shared-memory architectures that reduce the large cost of core-to-core communication in parallel computing. <br clear="left" />
 
-On the fall of 2018 and spring 2019, I interned at AMD Research, developing and benchmarking driver and library software to evaluate the capabilities and performance of prototype hardware for exascale computing.
+In Fall 2018 and Spring 2019, I interned at AMD Research, developing and benchmarking driver and library software to evaluate the capabilities and performance of prototype hardware for exascale computing.
 
 Prior to joining UIUC I obtained my Bachelor's Degree in Telecommunications Engineering from the [Polytechnic University of Valencia (UPV)](http://www.upv.es/index-en.html), Spain, and completed one exchange semester at the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/), Norway. During my undergraduate studies I also performed two years of research in the area of Computational Mathematics under the supervision of Professors [Juan Ramon Torregrosa](https://damres.webs.upv.es/?page_id=946) and [Alicia Cordero](https://damres.webs.upv.es/?page_id=944), as a member of the [DAMRES](https://damres.webs.upv.es/?lang=en) group. 
 
