@@ -10,4 +10,4 @@ link_url:
 <div class="empty_subtitle"></div>
 {% endif %}
 
-<object data="https://github.com/afranques/resume/raw/master/resume_long_antonio.pdf" width="900" height="1000" type="application/pdf" />
+<object data="https://github.com/afranques/resume/raw/master/resume_long_antonio.pdf" width="900" height="1000" type="application/pdf" Content-Disposition: inline; filename=resume_long_antonio.pdf />
