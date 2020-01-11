@@ -10,6 +10,12 @@ link_url: https://github.com/afranques
 <div class="empty_subtitle"></div>
 {% endif %}
 
+### 2019
+- [**Automatic Communication Protocol Selection in Wireless-enabled Manycore Chips**] - Class project submitted to Machine Learning for Signal Processing (CS 598-PS) at UIUC (Fall 2019). It applies machine learning techniques to infer the optimal MAC protocol per epoch from real-time processor and memory traces. Implemented in Python. Achieved accuracy of 96%. Evaluated performance on SPLASH-2 and Crono suites. [(PDF)](/docs/CS598PS___Project_Report_Submitted_Version.pdf)
+
+### 2018
+- [**N-Body Problem in Akka**] - Class project submitted to Designing Applications for Extreme Scale Systems (CS 598-WG) at UIUC (Spring 2018). It includes the implementation and performance analysis of the Direct Gravitational N-Body problem in Akka; a very popular framework for actor-based concurrency. [(PDF)](/docs/CS598WG_Project_Report_Submitted_Version.pdf)
+
 ### 2017
 - [**Multi2Sim to McPAT converter**](https://github.com/{{ site.author.github }}/m2s-to-mcpat) - Python script that takes one or multiple statistics output files, obtained after simulating a certain application with Multi2Sim, and convert them into McPAT XML input configuration format.
 
