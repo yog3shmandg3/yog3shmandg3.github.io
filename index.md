@@ -22,7 +22,7 @@ You can find a copy of my full resume [here](https://github.com/afranques/resume
 
 ---
 ### News
-- **Oct 2019**: I will be giving an invited talk at MICRO 2019, titled [Challenges and Opportunities of Wireless Network-on-Chip for Manycore Architectures](/docs/nocarc2019_antonio_franques.pdf)
+- **Oct 2019**: I will be giving an invited talk at MICRO '19, titled [Challenges and Opportunities of Wireless Network-on-Chip for Manycore Architectures](/docs/nocarc2019_antonio_franques.pdf)
 - **Jan 2019**: Heading off to AMD Research in Seattle for an extension of my previous internship
 - **Jan 2019**: Our work on [Opportunistic Beamforming in Wireless Network-on-Chip](/docs/ISCAS_2019_Opportunistic_Beamforming.pdf) has been accepted to ISCAS '19
 - **Nov 2018**: [Replica](/docs/ASPLOS_2019_Replica.pdf) has been accepted to ASPLOS '19
