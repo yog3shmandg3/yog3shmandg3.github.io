@@ -17,7 +17,7 @@ _(submitted for publication, arXiv:1901.04291)_.
 
 - **Opportunistic Beamforming in Wireless Network-on-Chip**. <br>
 S. Abadal, A. Marruedo, **A. Franques**, H. Taghvaee, A. Cabellos-Aparicio, J. Zhou, J. Torrellas, E. Alarcón.
-Proceedings of the International Symposium on Circuits and Systems **(ISCAS '19)**, Sapporo, Japan, May 2019.
+Proceedings of the International Symposium on Circuits and Systems **(ISCAS '19)**, Sapporo, Japan, May 2019. [(PDF)](/docs/ISCAS_2019_Opportunistic_Beamforming.pdf)
 
 - **Replica: A Wireless Manycore for Communication-Intensive and Approximate Data**. <br>
 V. Fernando, **A. Franques**, S. Abadal, S. Misailovic, J. Torrellas.  
