@@ -19,3 +19,13 @@ Although I have lived in a few different places over the last years, I grew up i
 Besides Computer Science related topics, my other personal interests and hobbies include running/hiking, rock climbing, travelling, and cooking/nutrition.
 
 You can find a copy of my full resume [here](https://github.com/afranques/resume/raw/master/resume_long_antonio.pdf), a two-page version [here](https://github.com/afranques/resume/raw/master/resume_double_page_antonio.pdf), and a one-page version [here](https://github.com/afranques/resume/raw/master/resume_single_page_antonio.pdf). Also, you can email me at either [franques.antonio@gmail.com](mailto:franques.antonio@gmail.com) (personal) or [franque2@illinois.edu](mailto:franque2@illinois.edu) (academic).
+
+---
+### News
+- *Oct 2019*: I will be giving an invited talk at MICRO 2019, titled [Challenges and Opportunities of Wireless Network-on-Chip for Manycore Architectures](/docs/nocarc2019_antonio_franques.pdf)
+- *Jan 2019*: Heading off to AMD Research in Seattle for an extension of my previous internship
+- *Jan 2019*: Our work on [Opportunistic Beamforming in Wireless Network-on-Chip](/docs/ISCAS_2019_Opportunistic_Beamforming.pdf) is accepted to ISCAS '19
+- *Nov 2018*: [Replica](/docs/ASPLOS_2019_Replica.pdf) is accepted to ASPLOS '19
+- *Sep 2018*: Heading off to AMD Research in Austin for an internship
+- *Jan 2018*: Our work on [Millimeter-Wave Propagation within a Computer Chip Package](/docs/ISCAS_2018_CompPackage.pdf) is accepted to ISCAS '18
+- *Jul 2016*: Our project receives an [NSF XPS grant to advance scalability for on-chip wireless communications](https://grainger.illinois.edu/news/17894). [NSF award site](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1629431&ActiveAwards=true&ExpiredAwards=true)
