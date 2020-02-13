@@ -22,7 +22,7 @@ You can find a copy of my full resume [here](https://github.com/afranques/resume
 
 ---
 ### News
-- **Feb 2020**: Our manuscript [Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication]() has been accepted to IEEE Transactions on Communications
+- **Feb 2020**: Our manuscript [Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication](/docs/timoneda_engineer_the_channel.pdf) has been accepted to IEEE Transactions on Communications
 - **Oct 2019**: I will be giving an invited talk at MICRO '19, titled [Challenges and Opportunities of Wireless Network-on-Chip for Manycore Architectures](/docs/nocarc2019_antonio_franques.pdf)
 - **Jan 2019**: Heading off to AMD Research in Seattle for an extension of my previous internship
 - **Jan 2019**: Our work on [Opportunistic Beamforming in Wireless Network-on-Chip](/docs/ISCAS_2019_Opportunistic_Beamforming.pdf) has been accepted to ISCAS '19
