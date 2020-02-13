@@ -13,7 +13,7 @@ link_url: https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en
 ### 2019
 - **Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication**. <br>
 X. Timoneda, S. Abadal, **A. Franques**, D. Manessis, J. Zhou, J. Torrellas, E. Alarcón, A. Cabellos-Aparicio.
-_(submitted for publication, arXiv:1901.04291)_.
+_(IEEE Transactions on Communications, doi: 10.1109/TCOMM.2020.2973988)_. [(PDF)](/docs/timoneda_engineer_the_channel.pdf)
 
 - **Opportunistic Beamforming in Wireless Network-on-Chip**. <br>
 S. Abadal, A. Marruedo, **A. Franques**, H. Taghvaee, A. Cabellos-Aparicio, J. Zhou, J. Torrellas, E. Alarcón.
