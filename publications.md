@@ -11,6 +11,10 @@ link_url: https://scholar.google.com/citations?user=0SIrK0MAAAAJ&hl=en
 {% endif %}
 
 ### 2019
+- **Communication Engine for Hybrid Interconnect Technologies**. <br>
+S. Blagodurov, **A. Franques**.
+US Patent App. 16/588,612. Filed: September 30, 2019.
+
 - **Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication**. <br>
 X. Timoneda, S. Abadal, **A. Franques**, D. Manessis, J. Zhou, J. Torrellas, E. Alarcón, A. Cabellos-Aparicio.
 IEEE Transactions on Communications, doi: 10.1109/TCOMM.2020.2973988. [(PDF)](/docs/timoneda_engineer_the_channel.pdf)
