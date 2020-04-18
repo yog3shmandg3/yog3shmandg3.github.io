@@ -8,7 +8,7 @@ comments: false
 
 Hi, I am Antonio Franques, a PhD student in Computer Science at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
 
-I am advised by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focuses on the application of high-frequency wireless on-chip communication in manycore architectures. Specifically, my goal is to design new shared-memory architectures that reduce the large cost of core-to-core communication in parallel computing. <br clear="left" />
+I am advised by [Prof. Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html), and a member of the [i-acoma](http://iacoma.cs.uiuc.edu/) group. My research focuses on the application of high-frequency wireless on-chip communication in large-scale multicore architectures with hundreds or even thousands of cores. Specifically, my goal is to design scalable and efficient memory hierarchies that reduce the large cost of core-to-core communication in parallel computing. <br clear="left" />
 
 In Fall 2018 and Spring 2019, I interned at AMD Research, developing and benchmarking driver and library software to evaluate the capabilities and performance of prototype hardware for exascale computing.
 
@@ -18,12 +18,13 @@ Although I have lived in a few different places over the last years, I grew up i
 
 Besides Computer Science related topics, my other personal interests and hobbies include running/hiking, rock climbing, travelling, and cooking/nutrition.
 
-You can find a copy of my full resume [here](https://github.com/afranques/resume/raw/master/resume_long_antonio.pdf), a two-page version [here](https://github.com/afranques/resume/raw/master/resume_double_page_antonio.pdf), and a one-page version [here](https://github.com/afranques/resume/raw/master/resume_single_page_antonio.pdf). Also, you can email me at either [franques.antonio@gmail.com](mailto:franques.antonio@gmail.com) (personal) or [franque2@illinois.edu](mailto:franque2@illinois.edu) (academic).
+You can find a copy of my full resume [here](docs/resume_long_antonio_franques.pdf). Also, you can email me at either [franques.antonio@gmail.com](mailto:franques.antonio@gmail.com) (personal) or [franque2@illinois.edu](mailto:franque2@illinois.edu) (academic).
 
 ---
 ### News
 - **Feb 2020**: Our manuscript [Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication](/docs/timoneda_engineer_the_channel.pdf) has been accepted to IEEE Transactions on Communications
 - **Oct 2019**: I will be giving an invited talk at MICRO '19, titled [Challenges and Opportunities of Wireless Network-on-Chip for Manycore Architectures](/docs/nocarc2019_antonio_franques.pdf)
+- **Sep 2019**: My internship at AMD Research led to the filing of a U.S. patent titled "Communication Engine for Hybrid Interconnect Technologies"
 - **Jan 2019**: Heading off to AMD Research in Seattle for an extension of my previous internship
 - **Jan 2019**: Our work on [Opportunistic Beamforming in Wireless Network-on-Chip](/docs/ISCAS_2019_Opportunistic_Beamforming.pdf) has been accepted to ISCAS '19
 - **Nov 2018**: [Replica](/docs/ASPLOS_2019_Replica.pdf) has been accepted to ASPLOS '19
