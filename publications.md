@@ -16,10 +16,6 @@ X. Timoneda, S. Abadal, **A. Franques**, D. Manessis, J. Zhou, J. Torrellas, E. 
 IEEE Transactions on Communications, doi: 10.1109/TCOMM.2020.2973988. [(PDF)](/docs/timoneda_engineer_the_channel.pdf)
 
 ### 2019
-- **Communication Engine for Hybrid Interconnect Technologies**. <br>
-S. Blagodurov, **A. Franques**.
-US Patent App. 16/588,612. Filed: September 30, 2019.
-
 - **Opportunistic Beamforming in Wireless Network-on-Chip**. <br>
 S. Abadal, A. Marruedo, **A. Franques**, H. Taghvaee, A. Cabellos-Aparicio, J. Zhou, J. Torrellas, E. Alarcón.
 Proceedings of the International Symposium on Circuits and Systems **(ISCAS '19)**, Sapporo, Japan, May 2019. [(PDF)](/docs/ISCAS_2019_Opportunistic_Beamforming.pdf)
