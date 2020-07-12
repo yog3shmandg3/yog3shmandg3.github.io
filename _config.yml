@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://afranques.com"
+url: "http://yogesh.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Antonio Franques
+title: Yogesh Mandge
 
 # Short description of your site
-description: PhD Student in Computer Science, University of Illinois at Urbana-Champaign.
+description: Masters Student in Computer Science, Indian Institute of Technology Hyderabad.
 
 # --- Navigation bar options --- #
 
@@ -37,15 +37,15 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Antonio Franques
-  email: "franques.antonio@gmail.com"
-  facebook: afranques  # eg. daattali
-  github: afranques   # eg. daattali
-  scholar: 0SIrK0MAAAAJ&hl=en # Antonio Franques scholar profile
-  instagram: afranques
-  twitter: a_franques   # eg. daattali
-  linkedin: in/afranques  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: 5034588/afranques  # eg. "3943160/daattali"
+  name: Yogesh Mandge
+  email: "yog3shmandg3@gmail.com"
+  facebook: ""  # eg. daattali
+  github: yog3shmandg3   # eg. daattali
+  scholar: "" #0SIrK0MAAAAJ&hl=en # Antonio Franques scholar profile
+  instagram: ""
+  twitter: ""   # eg. daattali
+  linkedin: in/yog3sh  # eg. "pub/dean-attali/8/946/143"
+  stackoverflow: "" #5034588/afranques  # eg. "3943160/daattali"
 
 # Select which links to show in the footer
 footer-links-active:
@@ -61,7 +61,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "afranques.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "yogesh.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
