@@ -22,17 +22,8 @@ You can find a copy of my full resume [here](docs/resume_long_antonio_franques.p
 
 ---
 ### News
-- **Feb 2020**: Our manuscript [Engineer the Channel and Adapt to it: Enabling Wireless Intra-Chip Communication](/docs/timoneda_engineer_the_channel.pdf) has been accepted to IEEE Transactions on Communications
-- **Oct 2019**: I will be giving an invited talk at MICRO '19, titled [Challenges and Opportunities of Wireless Network-on-Chip for Manycore Architectures](/docs/nocarc2019_antonio_franques.pdf)
-- **Feb 2019**: osm hackfest
-- **Feb 2019**: 3gpp meeting
-- **Feb 2019**: NCC 2019
-- **Jan 2019**: Heading off to AMD Research in Seattle for an extension of my previous internship
-- **Jan 2019**: Our work on [Opportunistic Beamforming in Wireless Network-on-Chip](/docs/ISCAS_2019_Opportunistic_Beamforming.pdf) has been accepted to ISCAS '19
-- **Nov 2018**: [Replica](/docs/ASPLOS_2019_Replica.pdf) has been accepted to ASPLOS '19
-- **Sep 2018**: Heading off to AMD Research in Austin for an internship
-- **Jan 2018**: Our work on [Millimeter-Wave Propagation within a Computer Chip Package](/docs/ISCAS_2018_CompPackage.pdf) has been accepted to ISCAS '18
-- **Dec 2018**: Attended 5g workshop
-- **Jul 2018**: Joined IIT Hyderabad as a Graduate student and Research Assistant.
-- **Mar 2018**: Qualified Graduate Aptitute Test in Engineering (GATE) with 99 percentile.
-- **May 2017**: Graduated from Shri Ram Institute of Science and Technology.
+- **Jun 2020**: Attended ETSI Open Source MANO #9 Remote Hackfest, [Certificate](/docs/certificate_participation_OSM9_hackfest_Yogesh.pdf)
+- **Jan 2020**: Attended 3GPP SA6 meeting #35 at Hyderabad, India 
+- **Feb 2019**: I'll be giving a Demo at Twenty fifth National Conference On Communications (NCC) 2019, titled [Real Time Video Caching Over Low Latency MEC in OAI LTE Network](/docs/real_time_video_caching_over_MEC_OAI.pdf.pdf)
+- **Dec 2018**: Attended the Indigenous 5G Testbed project team meet at Lonavala, India
+- **Jul 2018**: Joined IIT Hyderabad as a Graduate student and Research Assistant under Prof. Antony Franklin
