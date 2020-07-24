@@ -16,7 +16,7 @@ Although I have lived in a few different places over the last years, I grew up i
 
 Besides Computer Science related topics, my other personal interests and hobbies include drawing/sketching, playing chess, running/hiking, travelling, and photography.
 
-You can find a copy of my full resume [here](docs/resume_long_antonio_franques.pdf). Also, you can email me at either [yog3shmandg3@gmail.com](mailto:yog3shmandg3@gmail.com) (personal) or [cs18mtech11031@iith.ac.in](mailto:cs18mtech11031@iith.ac.in) (academic).
+You can find a copy of my full resume [here](docs/). Also, you can email me at either [yog3shmandg3@gmail.com](mailto:yog3shmandg3@gmail.com) (personal) or [cs18mtech11031@iith.ac.in](mailto:cs18mtech11031@iith.ac.in) (academic).
 
 ---
 ### News
