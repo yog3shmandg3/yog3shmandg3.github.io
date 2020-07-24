@@ -17,7 +17,7 @@ baseurl: ""
 title: Yogesh Mandge
 
 # Short description of your site
-description: Masters Student in Computer Science, Indian Institute of Technology Hyderabad.
+description: Masters Student and Research Assistant in Computer Science, Indian Institute of Technology Hyderabad.
 
 # --- Navigation bar options --- #
 
@@ -53,11 +53,11 @@ footer-links-active:
   facebook: false
   scholar: true
   email: true
-  twitter: true
+  twitter: false
   github: true
   linkedin: true
   stackoverflow: false
-  instagram: true
+  instagram: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
