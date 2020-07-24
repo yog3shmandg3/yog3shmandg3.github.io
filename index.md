@@ -8,13 +8,13 @@ comments: false
 
 Hi, I am Yogesh Mandge, a Graduate student and Research Assistant in Computer Science at the [Indian Institute of Technology Hyderabad (IITH)](https://www.iith.ac.in/).
 
-I am advised by [Prof. Antony Franklin](https://iith.ac.in/~antony/), and a member of the [Networked Wireless Systems (NeWS)](https://newslab.iith.ac.in/) group. My research focuses on the application of high-frequency wireless on-chip communication in large-scale multicore architectures with hundreds or even thousands of cores. Specifically, my masters thesis is to design reliable and resilient network function virtualization orchestrator (nfvo) that eliminates single point of failure, resist and reduce the risk of adverse events and conditions or actively detect these adversities, respond to them, and recover from the harm they cause. <br clear="left" />
+I am advised by [Prof. Antony Franklin](https://iith.ac.in/~antony/), and a member of the [Networked Wireless Systems (NeWS)](https://newslab.iith.ac.in/) group. My research focuses on Network Function Virtualization (NFV), Software Defined Network (SDN), and cellular networks, mainly 5G with Multi-access Edge Computing. Specifically, my master's thesis is to design reliable and resilient NFV Orchestrator (NFVO) that resist and reduce the risk of adverse events and conditions or actively detect these adversities, respond to them, and recover from the harm they may cause. <br clear="left" />
 
-Prior to joining IIT Hyderabad I obtained my Bachelor's Degree in Computer Science and Engineering from the [Shri Ram Institute of Science and Technology (SRIST)](http://sritgroup.net/), India.
+Prior to joining IIT Hyderabad, I obtained my Bachelor's Degree in Computer Science and Engineering from the [Shri Ram Institute of Science and Technology (SRIST)](http://sritgroup.net/), India.
 
 Although I have lived in a few different places over the last years, I grew up in [Jabalpur](https://en.wikipedia.org/wiki/Jabalpur), India&mdash;a beautiful little city in [Madhya Pradesh](https://en.wikipedia.org/wiki/Madhya_Pradesh) where I still often go to visit my family and friends.
 
-Besides Computer Science related topics, my other personal interests and hobbies include drawing/sketching, playing chess, running/hiking, travelling, and photography.
+Besides Computer Science related topics, my other personal interests and hobbies include drawing/sketching, playing chess, running/hiking, traveling, and photography.
 
 You can find a copy of my full resume [here](docs/). Also, you can email me at either [yog3shmandg3@gmail.com](mailto:yog3shmandg3@gmail.com) (personal) or [cs18mtech11031@iith.ac.in](mailto:cs18mtech11031@iith.ac.in) (academic).
 
