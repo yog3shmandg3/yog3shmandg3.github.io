@@ -8,7 +8,7 @@ comments: false
 
 Hi, I am Yogesh Mandge, a Graduate student and Research Assistant in Computer Science at the [Indian Institute of Technology Hyderabad (IITH)](https://www.iith.ac.in/).
 
-I am advised by [Prof. Antony Franklin](https://iith.ac.in/~antony/), and a member of the [Networked Wireless Systems (NeWS)](https://newslab.iith.ac.in/) group. My research focuses on Network Function Virtualization (NFV), Software Defined Network (SDN), and cellular networks, mainly 5G with Multi-access Edge Computing. Specifically, my master's thesis is to design reliable and resilient NFV Orchestrator (NFVO) that resist and reduce the risk of adverse events and conditions or actively detect these adversities, respond to them, and recover from the harm they may cause. <br clear="left" />
+I am advised by [Prof. Antony Franklin](https://iith.ac.in/~antony/), and a member of the [Networked Wireless Systems (NeWS)](https://newslab.iith.ac.in/) group. My research focuses on Network functions virtualization (NFV), Software defined network (SDN), and cellular networks, mainly 5G with Multi-access Edge Computing. Specifically, my master's thesis is to design reliable and resilient NFV Orchestrator (NFVO) that resist and reduce the risk of adverse events and conditions or actively detect these adversities, respond to them, and recover from the harm they may cause. <br clear="left" />
 
 Prior to joining IIT Hyderabad, I obtained my Bachelor's Degree in Computer Science and Engineering from the [Shri Ram Institute of Science and Technology (SRIST)](http://sritgroup.net/), India.
 
