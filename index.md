@@ -8,7 +8,7 @@ comments: false
 
 Hi, I am Yogesh Mandge, a Graduate student and Research Assistant in Computer Science at the [Indian Institute of Technology Hyderabad (IITH)](https://www.iith.ac.in/).
 
-I am advised by [Prof. Antony Franklin](https://iith.ac.in/~antony/), and a member of the [Networked Wireless Systems (NeWS)](https://newslab.iith.ac.in/) group. My research focuses on the application of high-frequency wireless on-chip communication in large-scale multicore architectures with hundreds or even thousands of cores. Specifically, my goal is to design scalable and efficient memory hierarchies that reduce the large cost of core-to-core communication in parallel computing. <br clear="left" />
+I am advised by [Prof. Antony Franklin](https://iith.ac.in/~antony/), and a member of the [Networked Wireless Systems (NeWS)](https://newslab.iith.ac.in/) group. My research focuses on the application of high-frequency wireless on-chip communication in large-scale multicore architectures with hundreds or even thousands of cores. Specifically, my masters thesis is to design reliable and resilient network function virtualization orchestrator (nfvo) that eliminates single point of failure, resist and reduce the risk of adverse events and conditions or actively detect these adversities, respond to them, and recover from the harm they cause. <br clear="left" />
 
 Prior to joining IIT Hyderabad I obtained my Bachelor's Degree in Computer Science and Engineering from the [Shri Ram Institute of Science and Technology (SRIST)](http://sritgroup.net/), India.
 
