@@ -20,6 +20,7 @@ You can find a copy of my full resume [here](docs/). Also, you can email me at e
 
 ---
 ### News
+- **Jan 2021**: I'll be joining Goldman Sachs Bangalore office as a Full-time Analyst this summer.
 - **Jul 2020**: Our work titled, 'Performance Study of Multi-access Edge Computing Deployment in a Virtualized Environment' has been accepted to 3rd 5G World Forum (5GWF)
 - **Jun 2020**: Attended ETSI Open Source MANO #9 Remote Hackfest, [Certificate](/docs/certificate_participation_OSM9_hackfest_Yogesh.pdf)
 - **Jan 2020**: Attended 3GPP SA6 meeting #35 at Hyderabad, India 
