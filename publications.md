@@ -3,7 +3,7 @@ layout: page
 title: Publications
 subtitle: A (possibly) more updated list can also be found on my
 link_name: Google Scholar profile
-link_url: https://scholar.google.com/citations?user=&hl=en
+link_url: https://scholar.google.com/citations?user=cysC6A4AAAAJ&hl=en
 ---
 
 {% if page.subtitle == "" %}
