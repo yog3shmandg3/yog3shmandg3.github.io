@@ -12,11 +12,11 @@ I am advised by [Prof. Antony Franklin](https://iith.ac.in/~antony/), and a memb
 
 Prior to joining IIT Hyderabad, I obtained my Bachelor's Degree in Computer Science and Engineering from the [Shri Ram Institute of Science and Technology (SRIST)](http://sritgroup.net/), India.
 
-Although I have lived in a few different places over the last years, I grew up in [Jabalpur](https://en.wikipedia.org/wiki/Jabalpur), India&mdash;a beautiful little city in [Madhya Pradesh](https://en.wikipedia.org/wiki/Madhya_Pradesh) where I still often go to visit my family and friends.
+Although I have lived in a few different places over the last years, I grew up in [Jabalpur](https://en.wikipedia.org/wiki/Jabalpur), India &mdash; a beautiful little city in [Madhya Pradesh](https://en.wikipedia.org/wiki/Madhya_Pradesh) where I still often go to visit my family and friends.
 
 Besides Computer Science related topics, my other personal interests and hobbies include drawing/sketching, playing chess, running/hiking, traveling, and photography.
 
-You can find a copy of my full resume - [here](docs/Yogesh_Mandge_IITH_Resume.pdf). Also, you can email me at either [yog3shmandg3@gmail.com](mailto:yog3shmandg3@gmail.com) (personal) or [cs18mtech11031@iith.ac.in](mailto:cs18mtech11031@iith.ac.in) (academic).
+You can find a copy of my full resume &mdash; [here](docs/Yogesh_Mandge_IITH_Resume.pdf). Also, you can email me at either [yog3shmandg3@gmail.com](mailto:yog3shmandg3@gmail.com) (personal) or [cs18mtech11031@iith.ac.in](mailto:cs18mtech11031@iith.ac.in) (academic).
 
 ---
 ### News
