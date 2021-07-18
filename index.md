@@ -2,7 +2,7 @@
 layout: page
 comments: false
 ---
-My warning paragraph.
+Hi, I've joined Goldman Sachs Hyderabad as a full-time Analyst. This page was last updated in July 2021.
 {: .alert .alert-warning}
 
 <img class="profile_picture" src="/img/profile_picture.jpg">
