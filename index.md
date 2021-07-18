@@ -3,12 +3,8 @@ layout: page
 comments: false
 ---
 <div class="panel panel-warning">
-**Warning**
-{: .panel-heading}
 <div class="panel-body">
-
-WARNING DESCRIPTION
-
+Hi
 </div>
 </div>
 
@@ -35,3 +31,9 @@ You can find a copy of my full resume &mdash; [here](docs/Yogesh_Mandge_IITH_Res
 - **Feb 2019**: I'll be giving a Demo at Twenty fifth National Conference On Communications (NCC) 2019, titled [Real Time Video Caching Over Low Latency MEC in OAI LTE Network](/docs/real_time_video_caching_over_MEC_OAI.pdf)
 - **Dec 2018**: Attended the Indigenous 5G Testbed project team meet at Lonavala, India
 - **Jul 2018**: Joined IIT Hyderabad as a Graduate student and Research Assistant under Prof. Antony Franklin
+
+<style>
+.alert-warning {
+  color: rgb(138,109,59) !important;
+}
+</style>
