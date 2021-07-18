@@ -2,13 +2,8 @@
 layout: page
 comments: false
 ---
-<div class="panel panel-warning">
-<div class="panel-body">
-Hi
-</div>
-</div>
-
-<div class="index_header_space"></div>
+My warning paragraph.
+{: .alert .alert-warning}
 
 <img class="profile_picture" src="/img/profile_picture.jpg">
 
