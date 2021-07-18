@@ -2,9 +2,16 @@
 layout: page
 comments: false
 ---
+<div class="panel panel-warning">
+**Warning**
+{: .panel-heading}
+<div class="panel-body">
 
-> [!IMPORTANT]
-> Essential information required for user success.
+WARNING DESCRIPTION
+
+</div>
+</div>
+
 <div class="index_header_space"></div>
 
 <img class="profile_picture" src="/img/profile_picture.jpg">
