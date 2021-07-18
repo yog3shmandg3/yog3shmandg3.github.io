@@ -10,7 +10,7 @@ link_url: https://github.com/yog3shmandg3
 <div class="empty_subtitle"></div>
 {% endif %}
 
-The projects have been submitted/are in process of being submitted to various venues, and will be updated here upon their notification of acceptance.
+The projects have been submitted or are in process of being submitted to various venues, and will be updated here upon their notification of acceptance.
 {: .alert .alert-info}
 
 
