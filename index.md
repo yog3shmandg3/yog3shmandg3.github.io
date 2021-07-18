@@ -2,7 +2,8 @@
 layout: page
 comments: false
 ---
-Hi, I've joined Goldman Sachs Hyderabad as a full-time Analyst. This page was last updated in July 2021.
+Hi, I've graduated from IIT Hyderabad and joined Goldman Sachs Hyderabad as a full-time Analyst. 
+This page was last updated in July 2021.
 {: .alert .alert-warning}
 
 <img class="profile_picture" src="/img/profile_picture.jpg">
