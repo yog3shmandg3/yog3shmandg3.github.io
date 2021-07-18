@@ -3,7 +3,10 @@ layout: page
 comments: false
 ---
 
+> [!IMPORTANT]
+> Essential information required for user success.
 <div class="index_header_space"></div>
+
 <img class="profile_picture" src="/img/profile_picture.jpg">
 
 Hi, I am Yogesh Mandge, a Graduate student and Research Assistant in Computer Science at the [Indian Institute of Technology Hyderabad (IITH)](https://www.iith.ac.in/).
